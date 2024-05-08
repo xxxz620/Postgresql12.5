@@ -424,7 +424,7 @@ ExecHashJoinImpl(PlanState *pstate, bool parallel)
 				if (parallel)
 				{
 				//ExecParallelScanHashBucket(node, econtext);
-				node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
+				//node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
 				continue;
 					if (!ExecParallelScanHashBucket(node, econtext))
 					{
@@ -436,7 +436,7 @@ ExecHashJoinImpl(PlanState *pstate, bool parallel)
 				else
 				{
 				//ExecScanHashBucket(node, econtext);
-				node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
+				//node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
 				continue;
 					if (!ExecScanHashBucket(node, econtext))
 					{
@@ -646,7 +646,7 @@ ExecInitHashJoin(HashJoin *node, EState *estate, int eflags)
 	 * managed to launch a parallel query.
 	 */
 	hjstate->js.ps.ExecProcNode = ExecHashJoin;
-	hjstate->js.jointype = JOIN_LEFT;//强制左外连接
+	//hjstate->js.jointype = JOIN_LEFT;//强制左外连接
 	hjstate->js.jointype = node->join.jointype;
 
 	/*
@@ -690,7 +690,7 @@ ExecInitHashJoin(HashJoin *node, EState *estate, int eflags)
 	hjstate->js.single_match = (node->join.inner_unique ||
 								node->join.jointype == JOIN_SEMI);
 
-	node->join.jointype = JOIN_LEFT;//强制所有节点为左外连接
+	//node->join.jointype = JOIN_LEFT;//强制所有节点为左外连接
 	/* set up null tuples for outer joins, if needed */
 	switch (node->join.jointype)
 	{
