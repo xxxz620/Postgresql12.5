@@ -425,7 +425,7 @@ ExecHashJoinImpl(PlanState *pstate, bool parallel)
 				{
 				//ExecParallelScanHashBucket(node, econtext);
 				//node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
-				continue;
+				//continue;
 					if (!ExecParallelScanHashBucket(node, econtext))
 					{
 						/* out of matches; check for possible outer-join fill */
@@ -437,7 +437,7 @@ ExecHashJoinImpl(PlanState *pstate, bool parallel)
 				{
 				//ExecScanHashBucket(node, econtext);
 				//node->hj_JoinState = HJ_FILL_OUTER_TUPLE;
-				continue;
+				//continue;
 					if (!ExecScanHashBucket(node, econtext))
 					{
 						/* out of matches; check for possible outer-join fill */
