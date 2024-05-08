@@ -1,0 +1,1851 @@
+2024-04-04 17:34:56.058 CST [23543] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:34:56.058 CST [23543] LOG:  could not bind IPv4 address "127.0.0.1": 地址已在使用
+2024-04-04 17:34:56.058 CST [23543] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-04-04 17:34:56.058 CST [23543] WARNING:  could not create listen socket for "localhost"
+2024-04-04 17:34:56.058 CST [23543] FATAL:  could not create any TCP/IP sockets
+2024-04-04 17:34:56.058 CST [23543] LOG:  database system is shut down
+2024-04-04 17:35:36.406 CST [23557] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:35:36.407 CST [23557] LOG:  could not bind IPv4 address "127.0.0.1": 地址已在使用
+2024-04-04 17:35:36.407 CST [23557] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-04-04 17:35:36.407 CST [23557] WARNING:  could not create listen socket for "localhost"
+2024-04-04 17:35:36.407 CST [23557] FATAL:  could not create any TCP/IP sockets
+2024-04-04 17:35:36.407 CST [23557] LOG:  database system is shut down
+2024-04-04 17:38:28.245 CST [23578] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:38:28.245 CST [23578] LOG:  could not bind IPv4 address "127.0.0.1": 地址已在使用
+2024-04-04 17:38:28.245 CST [23578] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2024-04-04 17:38:28.245 CST [23578] WARNING:  could not create listen socket for "localhost"
+2024-04-04 17:38:28.245 CST [23578] FATAL:  could not create any TCP/IP sockets
+2024-04-04 17:38:28.245 CST [23578] LOG:  database system is shut down
+2024-04-04 17:39:38.184 CST [23591] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:39:38.185 CST [23591] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:39:38.187 CST [23591] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:39:38.211 CST [23593] LOG:  database system was interrupted; last known up at 2024-04-04 17:34:44 CST
+2024-04-04 17:39:38.222 CST [23593] LOG:  invalid primary checkpoint record
+2024-04-04 17:39:38.222 CST [23593] PANIC:  could not locate a valid checkpoint record
+2024-04-04 17:39:38.391 CST [23591] LOG:  startup process (PID 23593) was terminated by signal 6: 已放弃
+2024-04-04 17:39:38.391 CST [23591] LOG:  aborting startup due to startup process failure
+2024-04-04 17:39:38.392 CST [23591] LOG:  database system is shut down
+2024-04-04 17:40:00.437 CST [23599] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:40:00.437 CST [23599] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:40:00.439 CST [23599] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:40:00.450 CST [23601] LOG:  database system was interrupted; last known up at 2024-04-04 17:34:44 CST
+2024-04-04 17:40:00.455 CST [23601] LOG:  invalid primary checkpoint record
+2024-04-04 17:40:00.455 CST [23601] PANIC:  could not locate a valid checkpoint record
+2024-04-04 17:40:00.572 CST [23599] LOG:  startup process (PID 23601) was terminated by signal 6: 已放弃
+2024-04-04 17:40:00.572 CST [23599] LOG:  aborting startup due to startup process failure
+2024-04-04 17:40:00.574 CST [23599] LOG:  database system is shut down
+2024-04-04 17:45:12.164 CST [1836] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:45:12.164 CST [1836] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:45:12.165 CST [1836] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:45:12.176 CST [1837] LOG:  database system was interrupted; last known up at 2024-04-04 17:34:44 CST
+2024-04-04 17:45:12.191 CST [1837] LOG:  invalid primary checkpoint record
+2024-04-04 17:45:12.191 CST [1837] PANIC:  could not locate a valid checkpoint record
+2024-04-04 17:45:12.335 CST [1836] LOG:  startup process (PID 1837) was terminated by signal 6: 已放弃
+2024-04-04 17:45:12.335 CST [1836] LOG:  aborting startup due to startup process failure
+2024-04-04 17:45:12.337 CST [1836] LOG:  database system is shut down
+2024-04-04 17:47:22.831 CST [1899] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:47:22.831 CST [1899] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:47:22.834 CST [1899] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:47:22.852 CST [1900] LOG:  database system was interrupted; last known up at 2024-04-04 17:34:44 CST
+2024-04-04 17:47:22.860 CST [1900] LOG:  invalid primary checkpoint record
+2024-04-04 17:47:22.860 CST [1900] PANIC:  could not locate a valid checkpoint record
+2024-04-04 17:47:22.953 CST [1899] LOG:  startup process (PID 1900) was terminated by signal 6: 已放弃
+2024-04-04 17:47:22.953 CST [1899] LOG:  aborting startup due to startup process failure
+2024-04-04 17:47:22.954 CST [1899] LOG:  database system is shut down
+2024-04-04 17:49:39.438 CST [1965] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:49:39.438 CST [1965] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:49:39.440 CST [1965] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:49:39.451 CST [1966] LOG:  database system was interrupted; last known up at 2024-04-04 17:34:44 CST
+2024-04-04 17:49:39.458 CST [1966] LOG:  invalid primary checkpoint record
+2024-04-04 17:49:39.458 CST [1966] PANIC:  could not locate a valid checkpoint record
+2024-04-04 17:49:39.636 CST [1965] LOG:  startup process (PID 1966) was terminated by signal 6: 已放弃
+2024-04-04 17:49:39.636 CST [1965] LOG:  aborting startup due to startup process failure
+2024-04-04 17:49:39.637 CST [1965] LOG:  database system is shut down
+2024-04-04 17:51:53.742 CST [1991] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 17:51:53.742 CST [1991] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 17:51:53.743 CST [1991] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 17:51:53.760 CST [1993] LOG:  database system was shut down at 2024-04-04 17:51:41 CST
+2024-04-04 17:51:53.767 CST [1991] LOG:  database system is ready to accept connections
+2024-04-04 17:54:30.723 CST [2133] ERROR:  compressed data is corrupted at character 36
+2024-04-04 17:54:30.723 CST [2133] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 17:55:54.461 CST [2229] ERROR:  compressed data is corrupted at character 36
+2024-04-04 17:55:54.461 CST [2229] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 17:58:51.504 CST [2366] ERROR:  compressed data is corrupted at character 35
+2024-04-04 17:58:51.504 CST [2366] STATEMENT:  insert into test_vector values (1,'{-1.2, 2.1345, 3}');
+2024-04-04 17:59:19.119 CST [1991] LOG:  server process (PID 2366) was terminated by signal 11: 段错误
+2024-04-04 17:59:19.119 CST [1991] DETAIL:  Failed process was running: select * from test_vector;
+2024-04-04 17:59:19.119 CST [1991] LOG:  terminating any other active server processes
+2024-04-04 17:59:19.119 CST [2229] WARNING:  terminating connection because of crash of another server process
+2024-04-04 17:59:19.119 CST [2229] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-04 17:59:19.119 CST [2229] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-04 17:59:19.120 CST [2133] WARNING:  terminating connection because of crash of another server process
+2024-04-04 17:59:19.120 CST [2133] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-04 17:59:19.120 CST [2133] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-04 17:59:19.123 CST [1997] WARNING:  terminating connection because of crash of another server process
+2024-04-04 17:59:19.123 CST [1997] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-04 17:59:19.123 CST [1997] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-04 17:59:19.124 CST [1991] LOG:  all server processes terminated; reinitializing
+2024-04-04 17:59:19.152 CST [2377] LOG:  database system was interrupted; last known up at 2024-04-04 17:56:59 CST
+2024-04-04 17:59:19.154 CST [2378] FATAL:  the database system is in recovery mode
+2024-04-04 17:59:19.163 CST [2377] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-04 17:59:19.165 CST [2377] LOG:  redo starts at 0/2036748
+2024-04-04 17:59:19.165 CST [2377] LOG:  invalid record length at 0/2062D68: wanted 24, got 0
+2024-04-04 17:59:19.165 CST [2377] LOG:  redo done at 0/2062D30
+2024-04-04 17:59:19.171 CST [1991] LOG:  database system is ready to accept connections
+2024-04-04 17:59:56.828 CST [2388] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 17:59:56.828 CST [2388] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 17:59:56.828 CST [2388] STATEMENT:  insert into test_vector values (1,'{-1.2,2.1345,3}');
+2024-04-04 18:00:05.993 CST [1991] LOG:  server process (PID 2388) was terminated by signal 11: 段错误
+2024-04-04 18:00:05.993 CST [1991] DETAIL:  Failed process was running: insert into test_vector values (2,'{-1.2,2.1345,3}');
+2024-04-04 18:00:05.993 CST [1991] LOG:  terminating any other active server processes
+2024-04-04 18:00:05.994 CST [2382] WARNING:  terminating connection because of crash of another server process
+2024-04-04 18:00:05.994 CST [2382] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-04 18:00:05.994 CST [2382] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-04 18:00:05.994 CST [1991] LOG:  all server processes terminated; reinitializing
+2024-04-04 18:00:06.003 CST [2391] LOG:  database system was interrupted; last known up at 2024-04-04 17:59:19 CST
+2024-04-04 18:00:06.014 CST [2391] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-04 18:00:06.031 CST [2391] LOG:  redo starts at 0/2062DE0
+2024-04-04 18:00:06.031 CST [2391] LOG:  invalid record length at 0/2064C60: wanted 24, got 0
+2024-04-04 18:00:06.031 CST [2391] LOG:  redo done at 0/2064C28
+2024-04-04 18:00:06.046 CST [1991] LOG:  database system is ready to accept connections
+2024-04-04 20:16:35.918 CST [1931] LOG:  starting PostgreSQL 12.5 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0, 64-bit
+2024-04-04 20:16:35.919 CST [1931] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-04-04 20:16:35.920 CST [1931] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-04-04 20:16:35.932 CST [1932] LOG:  database system was interrupted; last known up at 2024-04-04 20:09:00 CST
+2024-04-04 20:16:35.945 CST [1932] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-04 20:16:35.947 CST [1932] LOG:  redo starts at 0/21A23C0
+2024-04-04 20:16:35.950 CST [1932] LOG:  invalid record length at 0/21D5570: wanted 24, got 0
+2024-04-04 20:16:35.950 CST [1932] LOG:  redo done at 0/21D5538
+2024-04-04 20:16:35.956 CST [1931] LOG:  database system is ready to accept connections
+2024-04-04 20:17:26.202 CST [1931] LOG:  server process (PID 1940) was terminated by signal 11: 段错误
+2024-04-04 20:17:26.202 CST [1931] DETAIL:  Failed process was running: select * from test_vector;
+2024-04-04 20:17:26.202 CST [1931] LOG:  terminating any other active server processes
+2024-04-04 20:17:26.203 CST [1936] WARNING:  terminating connection because of crash of another server process
+2024-04-04 20:17:26.203 CST [1936] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-04 20:17:26.203 CST [1936] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-04 20:17:26.204 CST [1954] FATAL:  the database system is in recovery mode
+2024-04-04 20:17:26.214 CST [1931] LOG:  all server processes terminated; reinitializing
+2024-04-04 20:17:26.224 CST [1955] LOG:  database system was interrupted; last known up at 2024-04-04 20:16:35 CST
+2024-04-04 20:17:26.228 CST [1955] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-04 20:17:26.229 CST [1955] LOG:  redo starts at 0/21D55E8
+2024-04-04 20:17:26.230 CST [1955] LOG:  invalid record length at 0/2205430: wanted 24, got 0
+2024-04-04 20:17:26.230 CST [1955] LOG:  redo done at 0/22053F8
+2024-04-04 20:17:26.262 CST [1931] LOG:  database system is ready to accept connections
+2024-04-04 20:26:18.543 CST [2244] ERROR:  type "vector" does not exist at character 55
+2024-04-04 20:26:18.543 CST [2244] STATEMENT:  create table test_vector (id integer primary key, vec vector)
+	;
+2024-04-04 20:26:56.347 CST [2244] ERROR:  syntax error at or near "elect" at character 1
+2024-04-04 20:26:56.347 CST [2244] STATEMENT:  elect '{1.1,2.2}'::vector-'{3.3,4.4}'::vector;
+2024-04-04 20:31:58.327 CST [2453] ERROR:  function "vector_in" already exists with same argument types
+2024-04-04 20:31:58.327 CST [2453] STATEMENT:  CREATE FUNCTION vector_in(cstring)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.327 CST [2453] ERROR:  function "vector_out" already exists with same argument types
+2024-04-04 20:31:58.327 CST [2453] STATEMENT:  CREATE FUNCTION vector_out(vector)
+	   RETURNS cstring
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.328 CST [2453] ERROR:  type "vector" already exists
+2024-04-04 20:31:58.328 CST [2453] STATEMENT:  CREATE TYPE vector (
+	   input = vector_in,
+	   output = vector_out
+	);
+2024-04-04 20:31:58.328 CST [2453] ERROR:  function "vector_add" already exists with same argument types
+2024-04-04 20:31:58.328 CST [2453] STATEMENT:  CREATE FUNCTION vector_add(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.328 CST [2453] ERROR:  operator + already exists
+2024-04-04 20:31:58.328 CST [2453] STATEMENT:  CREATE OPERATOR + (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_add,
+	   commutator = +
+	);
+2024-04-04 20:31:58.328 CST [2453] ERROR:  function "vector_sub" already exists with same argument types
+2024-04-04 20:31:58.328 CST [2453] STATEMENT:  CREATE FUNCTION vector_sub(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.329 CST [2453] ERROR:  operator - already exists
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  CREATE OPERATOR - (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_sub,
+	   commutator = -
+	);
+2024-04-04 20:31:58.329 CST [2453] ERROR:  function "vector_getsize" already exists with same argument types
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  CREATE FUNCTION vector_getsize(vector)
+	   RETURNS integer
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.329 CST [2453] ERROR:  operator <#> already exists
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  CREATE OPERATOR <#> (
+	   rightarg = vector,
+	   procedure = vector_getsize
+	);
+2024-04-04 20:31:58.329 CST [2453] ERROR:  function "vector_get_distance" already exists with same argument types
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  CREATE FUNCTION vector_get_distance(vector,vector)
+	  RETURNS float4
+	  AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	  LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 20:31:58.329 CST [2453] ERROR:  operator <-> already exists
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  CREATE OPERATOR <-> (
+	  leftarg = vector,
+	  rightarg = vector,
+	  procedure = vector_get_distance,
+	  commutator = <->
+	  );
+2024-04-04 20:31:58.329 CST [2453] ERROR:  relation "test_vector" already exists
+2024-04-04 20:31:58.329 CST [2453] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 20:31:58.330 CST [2453] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 20:31:58.330 CST [2453] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 20:31:58.330 CST [2453] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 20:42:25.942 CST [2621] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 20:42:25.942 CST [2621] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 20:43:07.652 CST [2624] ERROR:  invalid input syntax for type vector: " ^Z1.2, 2.1345, 3}" at character 36
+2024-04-04 20:43:07.652 CST [2624] STATEMENT:  insert into test_vector values (2, ' ^Z1.2, 2.1345, 3}');
+2024-04-04 20:43:13.692 CST [2624] ERROR:  invalid input syntax for type vector: " 1.2, 2.1345, 3}" at character 36
+2024-04-04 20:43:13.692 CST [2624] STATEMENT:  insert into test_vector values (2, ' 1.2, 2.1345, 3}');
+2024-04-04 20:43:25.403 CST [2624] ERROR:  invalid input syntax for type vector: " {1.2, 2.1345, 3}" at character 36
+2024-04-04 20:43:25.403 CST [2624] STATEMENT:  insert into test_vector values (2, ' {1.2, 2.1345, 3}');
+2024-04-04 20:44:12.649 CST [2624] ERROR:  invalid input syntax for type vector: "{++1.2, 2.1345, 3 }" at character 36
+2024-04-04 20:44:12.649 CST [2624] STATEMENT:  insert into test_vector values (4, '{++1.2, 2.1345, 3 }');
+2024-04-04 20:44:17.198 CST [2624] ERROR:  invalid input syntax for type vector: "{--1.2, 2.1345, 3 }" at character 36
+2024-04-04 20:44:17.198 CST [2624] STATEMENT:  insert into test_vector values (4, '{--1.2, 2.1345, 3 }');
+2024-04-04 21:01:00.940 CST [2624] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 21:01:00.940 CST [2624] DETAIL:  Key (id)=(4) already exists.
+2024-04-04 21:01:00.940 CST [2624] STATEMENT:  insert into test_vector values (4, '{1.2 , 2.1345, 3 }');
+2024-04-04 21:03:59.620 CST [2787] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 21:03:59.620 CST [2787] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 21:05:07.358 CST [2787] ERROR:  invalid input syntax for type vector: "id" at character 34
+2024-04-04 21:05:07.358 CST [2787] STATEMENT:  insert into test_vector values(2,' {1,2,3}');
+2024-04-04 21:10:08.738 CST [2980] ERROR:  function "vector_in" already exists with same argument types
+2024-04-04 21:10:08.738 CST [2980] STATEMENT:  CREATE FUNCTION vector_in(cstring)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.738 CST [2980] ERROR:  function "vector_out" already exists with same argument types
+2024-04-04 21:10:08.738 CST [2980] STATEMENT:  CREATE FUNCTION vector_out(vector)
+	   RETURNS cstring
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.738 CST [2980] ERROR:  type "vector" already exists
+2024-04-04 21:10:08.738 CST [2980] STATEMENT:  CREATE TYPE vector (
+	   input = vector_in,
+	   output = vector_out
+	);
+2024-04-04 21:10:08.739 CST [2980] ERROR:  function "vector_add" already exists with same argument types
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE FUNCTION vector_add(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.739 CST [2980] ERROR:  operator + already exists
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE OPERATOR + (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_add,
+	   commutator = +
+	);
+2024-04-04 21:10:08.739 CST [2980] ERROR:  function "vector_sub" already exists with same argument types
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE FUNCTION vector_sub(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.739 CST [2980] ERROR:  operator - already exists
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE OPERATOR - (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_sub,
+	   commutator = -
+	);
+2024-04-04 21:10:08.739 CST [2980] ERROR:  function "vector_getsize" already exists with same argument types
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE FUNCTION vector_getsize(vector)
+	   RETURNS integer
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.739 CST [2980] ERROR:  operator <#> already exists
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE OPERATOR <#> (
+	   rightarg = vector,
+	   procedure = vector_getsize
+	);
+2024-04-04 21:10:08.739 CST [2980] ERROR:  function "vector_get_distance" already exists with same argument types
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE FUNCTION vector_get_distance(vector,vector)
+	  RETURNS float4
+	  AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	  LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 21:10:08.739 CST [2980] ERROR:  operator <-> already exists
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  CREATE OPERATOR <-> (
+	  leftarg = vector,
+	  rightarg = vector,
+	  procedure = vector_get_distance,
+	  commutator = <->
+	  );
+2024-04-04 21:10:08.739 CST [2980] ERROR:  relation "test_vector" already exists
+2024-04-04 21:10:08.739 CST [2980] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 21:10:08.740 CST [2980] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 21:10:08.740 CST [2980] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 21:10:08.740 CST [2980] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 21:10:08.740 CST [2980] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 21:10:08.740 CST [2980] DETAIL:  Key (id)=(2) already exists.
+2024-04-04 21:10:08.740 CST [2980] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 21:10:08.740 CST [2980] ERROR:  invalid input syntax for type vector: "-1.2" at character 36
+2024-04-04 21:10:08.740 CST [2980] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 21:10:08.742 CST [2980] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 21:10:08.742 CST [2980] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 21:10:25.043 CST [2980] ERROR:  invalid input syntax for type vector: "-1.2" at character 36
+2024-04-04 21:10:25.043 CST [2980] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 21:10:25.044 CST [2980] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 21:10:25.044 CST [2980] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 21:11:57.463 CST [2980] ERROR:  relation "test_vector" does not exist at character 15
+2024-04-04 21:11:57.463 CST [2980] STATEMENT:  select * from test_vector;
+2024-04-04 21:12:08.374 CST [2980] ERROR:  type "vector" does not exist at character 55
+2024-04-04 21:12:08.374 CST [2980] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 21:12:24.961 CST [2980] ERROR:  type "vector" does not exist at character 17
+2024-04-04 21:12:24.961 CST [2980] STATEMENT:  select '{1,2}'::vector<->'{3,4}'::vector;
+2024-04-04 22:03:18.538 CST [2980] ERROR:  table "test_vector" does not exist
+2024-04-04 22:03:18.538 CST [2980] STATEMENT:  drop table test_vector;
+2024-04-04 22:03:19.041 CST [2980] ERROR:  type "vector" does not exist
+2024-04-04 22:03:19.041 CST [2980] STATEMENT:  drop type vector cascade;
+2024-04-04 22:03:24.766 CST [2980] ERROR:  invalid input syntax for type vector: "-1.2" at character 36
+2024-04-04 22:03:24.766 CST [2980] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:03:24.767 CST [2980] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 22:03:24.767 CST [2980] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 22:08:21.955 CST [2980] ERROR:  table "test_vector" does not exist
+2024-04-04 22:08:21.955 CST [2980] STATEMENT:  drop table test_vector;
+2024-04-04 22:08:24.885 CST [2980] ERROR:  type "vector" does not exist
+2024-04-04 22:08:24.885 CST [2980] STATEMENT:  drop type vector cascade;
+2024-04-04 22:08:30.113 CST [3310] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:08:30.113 CST [3310] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:08:30.114 CST [3310] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 22:08:30.114 CST [3310] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 22:33:59.762 CST [3310] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:33:59.762 CST [3310] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:33:59.764 CST [3310] ERROR:  operator is not unique : get vector3 to vector1 L2distance
+2024-04-04 22:33:59.764 CST [3310] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-04 22:34:15.066 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:34:15.066 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:34:15.067 CST [3476] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:34:15.067 CST [3476] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:34:15.067 CST [3476] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:34:15.067 CST [3476] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:35:51.269 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:35:51.269 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:35:51.269 CST [3476] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:35:51.269 CST [3476] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:35:51.269 CST [3476] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:35:51.269 CST [3476] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:36:09.486 CST [3476] ERROR:  invalid input syntax for type vector: " -1.2 " at character 36
+2024-04-04 22:36:09.486 CST [3476] STATEMENT:  insert into test_vector values (2, '{ -1.2 , 2.1345, 3}');
+2024-04-04 22:36:13.399 CST [3476] ERROR:  invalid input syntax for type vector: " {-1.2 , 2.1345, 3}" at character 36
+2024-04-04 22:36:13.399 CST [3476] STATEMENT:  insert into test_vector values (2, ' {-1.2 , 2.1345, 3}');
+2024-04-04 22:36:17.657 CST [3476] ERROR:  invalid input syntax for type vector: "{{-1.2 , 2.1345, 3}" at character 36
+2024-04-04 22:36:17.657 CST [3476] STATEMENT:  insert into test_vector values (2, '{{-1.2 , 2.1345, 3}');
+2024-04-04 22:36:23.769 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2 , 2.1345, 3}}" at character 36
+2024-04-04 22:36:23.769 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}}');
+2024-04-04 22:36:28.710 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 , 2.1345, 3}" at character 36
+2024-04-04 22:36:28.710 CST [3476] STATEMENT:  insert into test_vector values (2, '-1.2 , 2.1345, 3}');
+2024-04-04 22:36:37.700 CST [3476] ERROR:  invalid input syntax for type vector: " -1.2 , 2.1345, 3}" at character 36
+2024-04-04 22:36:37.700 CST [3476] STATEMENT:  insert into test_vector values (2, ' -1.2 , 2.1345, 3}');
+2024-04-04 22:36:44.773 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2 , 2.1345, 3 " at character 36
+2024-04-04 22:36:44.773 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3 ');
+2024-04-04 22:36:46.679 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2 , 2.1345, 3" at character 36
+2024-04-04 22:36:46.679 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3');
+2024-04-04 22:36:50.476 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2 , 2.1345, 3 }" at character 36
+2024-04-04 22:36:50.476 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3 }');
+2024-04-04 22:36:54.921 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:36:54.921 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, ,3}');
+2024-04-04 22:37:00.206 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:37:00.206 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, --3}');
+2024-04-04 22:37:04.348 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:37:04.348 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, ++3}');
+2024-04-04 22:37:16.400 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:37:16.400 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.13.45, +3}');
+2024-04-04 22:37:23.106 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:37:23.106 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 ,. 2.1345, +3}');
+2024-04-04 22:37:27.258 CST [3476] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:37:27.258 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2 ,, 2.1345, +3}');
+2024-04-04 22:37:40.377 CST [3476] ERROR:  invalid input syntax for type vector: "-1." at character 36
+2024-04-04 22:37:40.377 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.,2 ,, 2.1345, +3}');
+2024-04-04 22:37:43.320 CST [3476] ERROR:  invalid input syntax for type vector: "-1..2 " at character 36
+2024-04-04 22:37:43.320 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1..2 ,, 2.1345, +3}');
+2024-04-04 22:37:52.502 CST [3476] ERROR:  invalid input syntax for type vector: "-1 .2 " at character 36
+2024-04-04 22:37:52.502 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1 .2 , 2.1345, +3}');
+2024-04-04 22:37:55.853 CST [3476] ERROR:  invalid input syntax for type vector: "-1. 2 " at character 36
+2024-04-04 22:37:55.853 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1. 2 , 2.1345, +3}');
+2024-04-04 22:38:02.638 CST [3476] ERROR:  invalid input syntax for type vector: "-1. 2" at character 36
+2024-04-04 22:38:02.638 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1. 2, 2.1345, +3}');
+2024-04-04 22:38:06.102 CST [3476] ERROR:  invalid input syntax for type vector: "-1 .2" at character 36
+2024-04-04 22:38:06.102 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1 .2, 2.1345, +3}');
+2024-04-04 22:38:16.147 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2, 2.1345, 3} " at character 36
+2024-04-04 22:38:16.147 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2, 2.1345, 3} ');
+2024-04-04 22:38:21.061 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2, 2.1345, 3}," at character 36
+2024-04-04 22:38:21.061 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2, 2.1345, 3},');
+2024-04-04 22:38:24.997 CST [3476] ERROR:  invalid input syntax for type vector: "{-1.2, 2.1345, 3.}" at character 36
+2024-04-04 22:38:24.997 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2, 2.1345, 3.}');
+2024-04-04 22:38:56.144 CST [3476] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:38:56.144 CST [3476] DETAIL:  Key (id)=(2) already exists.
+2024-04-04 22:38:56.144 CST [3476] STATEMENT:  insert into test_vector values (2, '{-1.2, 2.1345, 00.3}');
+2024-04-04 22:41:24.006 CST [3591] ERROR:  function "vector_in" already exists with same argument types
+2024-04-04 22:41:24.006 CST [3591] STATEMENT:  CREATE FUNCTION vector_in(cstring)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.007 CST [3591] ERROR:  function "vector_out" already exists with same argument types
+2024-04-04 22:41:24.007 CST [3591] STATEMENT:  CREATE FUNCTION vector_out(vector)
+	   RETURNS cstring
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.007 CST [3591] ERROR:  type "vector" already exists
+2024-04-04 22:41:24.007 CST [3591] STATEMENT:  CREATE TYPE vector (
+	   input = vector_in,
+	   output = vector_out
+	);
+2024-04-04 22:41:24.007 CST [3591] ERROR:  function "vector_add" already exists with same argument types
+2024-04-04 22:41:24.007 CST [3591] STATEMENT:  CREATE FUNCTION vector_add(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.008 CST [3591] ERROR:  operator + already exists
+2024-04-04 22:41:24.008 CST [3591] STATEMENT:  CREATE OPERATOR + (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_add,
+	   commutator = +
+	);
+2024-04-04 22:41:24.008 CST [3591] ERROR:  function "vector_sub" already exists with same argument types
+2024-04-04 22:41:24.008 CST [3591] STATEMENT:  CREATE FUNCTION vector_sub(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.008 CST [3591] ERROR:  operator - already exists
+2024-04-04 22:41:24.008 CST [3591] STATEMENT:  CREATE OPERATOR - (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_sub,
+	   commutator = -
+	);
+2024-04-04 22:41:24.008 CST [3591] ERROR:  function "vector_getsize" already exists with same argument types
+2024-04-04 22:41:24.008 CST [3591] STATEMENT:  CREATE FUNCTION vector_getsize(vector)
+	   RETURNS integer
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.009 CST [3591] ERROR:  operator <#> already exists
+2024-04-04 22:41:24.009 CST [3591] STATEMENT:  CREATE OPERATOR <#> (
+	   rightarg = vector,
+	   procedure = vector_getsize
+	);
+2024-04-04 22:41:24.009 CST [3591] ERROR:  function "vector_get_distance" already exists with same argument types
+2024-04-04 22:41:24.009 CST [3591] STATEMENT:  CREATE FUNCTION vector_get_distance(vector,vector)
+	  RETURNS float4
+	  AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	  LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:41:24.009 CST [3591] ERROR:  operator <-> already exists
+2024-04-04 22:41:24.009 CST [3591] STATEMENT:  CREATE OPERATOR <-> (
+	  leftarg = vector,
+	  rightarg = vector,
+	  procedure = vector_get_distance,
+	  commutator = <->
+	  );
+2024-04-04 22:41:24.009 CST [3591] ERROR:  relation "test_vector" already exists
+2024-04-04 22:41:24.009 CST [3591] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 22:41:24.010 CST [3591] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:41:24.010 CST [3591] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 22:41:24.010 CST [3591] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 22:41:24.010 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:41:24.010 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:41:24.011 CST [3591] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:41:24.011 CST [3591] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:41:24.011 CST [3591] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:41:24.011 CST [3591] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:41:47.163 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:41:47.163 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, .3}');
+2024-04-04 22:41:53.259 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:41:53.259 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, ..3}');
+2024-04-04 22:41:58.313 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:41:58.313 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, -.3}');
+2024-04-04 22:42:05.753 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:42:05.753 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, +.3}');
+2024-04-04 22:42:08.077 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:42:08.077 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, .3}');
+2024-04-04 22:42:18.781 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:42:18.781 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 0.3}');
+2024-04-04 22:42:42.307 CST [3591] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:42:42.307 CST [3591] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+-1.2, 2.1345, 3
+-1.2
+ 
+ 2.1345
+ 
+ 3
+ 
+-1.2 , 2.1345, 3
+-1.2 
+ 
+-1. 0, 2,3
+-1. 0
+ 
+1,2
+1
+ 
+2
+ 
+1,2
+1
+ 
+2
+ 
+3,4
+3
+ 
+4
+ 
+1,2,3
+1
+ 
+2
+ 
+3
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+-1.2 , 2.1345, .3
+-1.2 
+ 
+-1.2 , 2.1345, ..3
+-1.2 
+ 
+-1.2 , 2.1345, -.3
+-1.2 
+ 
+-1.2 , 2.1345, +.3
+-1.2 
+ 
+-1.2 , 2.1345, .3
+-1.2 
+ 
+-1.2 , 2.1345, 0.3
+-1.2 
+ 
+-1.2 , 2.1345, 3
+-1.2 
+ 
+2024-04-04 22:46:27.080 CST [3688] ERROR:  function "vector_in" already exists with same argument types
+2024-04-04 22:46:27.080 CST [3688] STATEMENT:  CREATE FUNCTION vector_in(cstring)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.081 CST [3688] ERROR:  function "vector_out" already exists with same argument types
+2024-04-04 22:46:27.081 CST [3688] STATEMENT:  CREATE FUNCTION vector_out(vector)
+	   RETURNS cstring
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.082 CST [3688] ERROR:  type "vector" already exists
+2024-04-04 22:46:27.082 CST [3688] STATEMENT:  CREATE TYPE vector (
+	   input = vector_in,
+	   output = vector_out
+	);
+2024-04-04 22:46:27.082 CST [3688] ERROR:  function "vector_add" already exists with same argument types
+2024-04-04 22:46:27.082 CST [3688] STATEMENT:  CREATE FUNCTION vector_add(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.082 CST [3688] ERROR:  operator + already exists
+2024-04-04 22:46:27.082 CST [3688] STATEMENT:  CREATE OPERATOR + (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_add,
+	   commutator = +
+	);
+2024-04-04 22:46:27.082 CST [3688] ERROR:  function "vector_sub" already exists with same argument types
+2024-04-04 22:46:27.082 CST [3688] STATEMENT:  CREATE FUNCTION vector_sub(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.083 CST [3688] ERROR:  operator - already exists
+2024-04-04 22:46:27.083 CST [3688] STATEMENT:  CREATE OPERATOR - (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_sub,
+	   commutator = -
+	);
+2024-04-04 22:46:27.083 CST [3688] ERROR:  function "vector_getsize" already exists with same argument types
+2024-04-04 22:46:27.083 CST [3688] STATEMENT:  CREATE FUNCTION vector_getsize(vector)
+	   RETURNS integer
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.083 CST [3688] ERROR:  operator <#> already exists
+2024-04-04 22:46:27.083 CST [3688] STATEMENT:  CREATE OPERATOR <#> (
+	   rightarg = vector,
+	   procedure = vector_getsize
+	);
+2024-04-04 22:46:27.083 CST [3688] ERROR:  function "vector_get_distance" already exists with same argument types
+2024-04-04 22:46:27.083 CST [3688] STATEMENT:  CREATE FUNCTION vector_get_distance(vector,vector)
+	  RETURNS float4
+	  AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	  LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:46:27.084 CST [3688] ERROR:  operator <-> already exists
+2024-04-04 22:46:27.084 CST [3688] STATEMENT:  CREATE OPERATOR <-> (
+	  leftarg = vector,
+	  rightarg = vector,
+	  procedure = vector_get_distance,
+	  commutator = <->
+	  );
+2024-04-04 22:46:27.084 CST [3688] ERROR:  relation "test_vector" already exists
+2024-04-04 22:46:27.084 CST [3688] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 22:46:27.084 CST [3688] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:46:27.084 CST [3688] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 22:46:27.084 CST [3688] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 22:46:27.085 CST [3688] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:46:27.085 CST [3688] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:46:27.085 CST [3688] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:46:27.085 CST [3688] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:46:27.085 CST [3688] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:46:27.085 CST [3688] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:46:41.404 CST [3688] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:46:41.404 CST [3688] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, .3}');
+2024-04-04 22:46:48.430 CST [3688] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:46:48.430 CST [3688] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 0.3}');
+-1.2, 2.1345, 3
+-1.2
+ 
+2.1345
+ 
+3
+ 
+-1.2 , 2.1345, 3
+-1.2 
+ 
+-1. 0, 2,3
+-1. 0
+ 
+1,2
+1
+ 
+2
+ 
+1,2
+1
+ 
+2
+ 
+3,4
+3
+ 
+4
+ 
+1,2,3
+1
+ 
+2
+ 
+3
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+-1.2 , 2.1345, .3
+-1.2 
+ 
+-1.2 , 2.1345, 0.3
+-1.2 
+ 
+2024-04-04 22:47:26.938 CST [3770] ERROR:  function "vector_in" already exists with same argument types
+2024-04-04 22:47:26.938 CST [3770] STATEMENT:  CREATE FUNCTION vector_in(cstring)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.939 CST [3770] ERROR:  function "vector_out" already exists with same argument types
+2024-04-04 22:47:26.939 CST [3770] STATEMENT:  CREATE FUNCTION vector_out(vector)
+	   RETURNS cstring
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.939 CST [3770] ERROR:  type "vector" already exists
+2024-04-04 22:47:26.939 CST [3770] STATEMENT:  CREATE TYPE vector (
+	   input = vector_in,
+	   output = vector_out
+	);
+2024-04-04 22:47:26.939 CST [3770] ERROR:  function "vector_add" already exists with same argument types
+2024-04-04 22:47:26.939 CST [3770] STATEMENT:  CREATE FUNCTION vector_add(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.939 CST [3770] ERROR:  operator + already exists
+2024-04-04 22:47:26.939 CST [3770] STATEMENT:  CREATE OPERATOR + (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_add,
+	   commutator = +
+	);
+2024-04-04 22:47:26.940 CST [3770] ERROR:  function "vector_sub" already exists with same argument types
+2024-04-04 22:47:26.940 CST [3770] STATEMENT:  CREATE FUNCTION vector_sub(vector, vector)
+	   RETURNS vector
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.940 CST [3770] ERROR:  operator - already exists
+2024-04-04 22:47:26.940 CST [3770] STATEMENT:  CREATE OPERATOR - (
+	   leftarg = vector,
+	   rightarg = vector,
+	   procedure = vector_sub,
+	   commutator = -
+	);
+2024-04-04 22:47:26.940 CST [3770] ERROR:  function "vector_getsize" already exists with same argument types
+2024-04-04 22:47:26.940 CST [3770] STATEMENT:  CREATE FUNCTION vector_getsize(vector)
+	   RETURNS integer
+	   AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	   LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.940 CST [3770] ERROR:  operator <#> already exists
+2024-04-04 22:47:26.940 CST [3770] STATEMENT:  CREATE OPERATOR <#> (
+	   rightarg = vector,
+	   procedure = vector_getsize
+	);
+2024-04-04 22:47:26.941 CST [3770] ERROR:  function "vector_get_distance" already exists with same argument types
+2024-04-04 22:47:26.941 CST [3770] STATEMENT:  CREATE FUNCTION vector_get_distance(vector,vector)
+	  RETURNS float4
+	  AS '/home/xtz/postgresql-12.5/src/tutorial/vector'
+	  LANGUAGE C IMMUTABLE STRICT;
+2024-04-04 22:47:26.941 CST [3770] ERROR:  operator <-> already exists
+2024-04-04 22:47:26.941 CST [3770] STATEMENT:  CREATE OPERATOR <-> (
+	  leftarg = vector,
+	  rightarg = vector,
+	  procedure = vector_get_distance,
+	  commutator = <->
+	  );
+2024-04-04 22:47:26.941 CST [3770] ERROR:  relation "test_vector" already exists
+2024-04-04 22:47:26.941 CST [3770] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-04 22:47:26.942 CST [3770] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:47:26.942 CST [3770] DETAIL:  Key (id)=(1) already exists.
+2024-04-04 22:47:26.942 CST [3770] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-04 22:47:26.942 CST [3770] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:47:26.942 CST [3770] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:47:26.942 CST [3770] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:47:26.942 CST [3770] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:47:26.942 CST [3770] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:47:26.942 CST [3770] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:47:32.880 CST [3770] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:47:32.880 CST [3770] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, .3}');
+2024-04-04 22:47:35.561 CST [3770] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:47:35.561 CST [3770] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 0.3}');
+-1.2, 2.1345, 3
+-1.2
+ 
+2.1345
+ 
+3
+ 
+-1.2 , 2.1345, 3
+-1.2 
+-1. 0, 2,3
+-1. 0
+ 
+1,2
+1
+ 
+2
+ 
+1,2
+1
+ 
+2
+ 
+3,4
+3
+ 
+4
+ 
+1,2,3
+1
+ 
+2
+ 
+3
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+1.1,2.2
+1.1
+ 
+2.2
+ 
+3.3,4.4
+3.3
+ 
+4.4
+ 
+-1.2 , 2.1345, .3
+-1.2 
+-1.2 , 2.1345, 0.3
+-1.2 
+2024-04-04 22:48:34.619 CST [3851] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:48:34.619 CST [3851] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:48:34.619 CST [3851] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:48:34.619 CST [3851] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:48:34.619 CST [3851] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:48:34.619 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:48:42.301 CST [3851] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:48:42.301 CST [3851] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:48:59.443 CST [3851] ERROR:  invalid input syntax for type vector: "-1.2" at character 36
+2024-04-04 22:48:59.443 CST [3851] STATEMENT:  insert into test_vector values (2, '{-1.2, 2.1345, .3}');
+2024-04-04 22:49:15.972 CST [3851] ERROR:  invalid input syntax for type vector: "-1.2" at character 36
+2024-04-04 22:49:15.972 CST [3851] STATEMENT:  insert into test_vector values (3, '{-1.2, 2.1345, .3}');
+2024-04-04 22:49:23.771 CST [3851] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:49:23.771 CST [3851] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:49:31.201 CST [3851] ERROR:  invalid input syntax for type vector: " { ,-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:49:31.201 CST [3851] STATEMENT:  insert into test_vector values (3, ' { ,-1.2, 2.1345, 3}');
+2024-04-04 22:49:43.847 CST [3851] ERROR:  invalid input syntax for type vector: " {--1.2, 2.1345, 3}" at character 36
+2024-04-04 22:49:43.847 CST [3851] STATEMENT:  insert into test_vector values (3, ' {--1.2, 2.1345, 3}');
+2024-04-04 22:49:48.326 CST [3851] ERROR:  invalid input syntax for type vector: "--1.2" at character 36
+2024-04-04 22:49:48.326 CST [3851] STATEMENT:  insert into test_vector values (3, '{--1.2, 2.1345, 3}');
+2024-04-04 22:51:19.513 CST [3851] ERROR:  invalid input syntax for type vector: "{}" at character 36
+2024-04-04 22:51:19.513 CST [3851] STATEMENT:  insert into test_vector values (4, '{}' );
+2024-04-04 22:51:32.890 CST [3851] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:51:32.890 CST [3851] DETAIL:  Key (id)=(3) already exists.
+2024-04-04 22:51:32.890 CST [3851] STATEMENT:  insert into test_vector values (3, '{1}');
+2024-04-04 22:51:56.478 CST [3851] ERROR:  invalid input syntax for type vector: "{1, 2, 3} " at character 36
+2024-04-04 22:51:56.478 CST [3851] STATEMENT:  insert into test_vector values (4, '{1, 2, 3} ' );
+2024-04-04 22:52:14.179 CST [3851] ERROR:  invalid input syntax for type vector: "- 1" at character 36
+2024-04-04 22:52:14.179 CST [3851] STATEMENT:  insert into test_vector values (4, '{- 1, 2, 3}' );
+2024-04-04 22:52:25.125 CST [3851] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:52:25.125 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2, 3}' );
+2024-04-04 22:52:35.978 CST [3851] ERROR:  invalid input syntax for type vector: "- 1.0" at character 36
+2024-04-04 22:52:35.978 CST [3851] STATEMENT:  insert into test_vector values (4, '{- 1.0, 2, 3}' );
+2024-04-04 22:52:46.591 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0 " at character 36
+2024-04-04 22:52:46.591 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1.0 , 2, 3}' );
+2024-04-04 22:53:07.683 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0" at character 36
+2024-04-04 22:53:07.683 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1.0,. 2, 3}' );
+2024-04-04 22:53:11.963 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0" at character 36
+2024-04-04 22:53:11.963 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1.0,..2, 3}' );
+2024-04-04 22:53:19.543 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0" at character 36
+2024-04-04 22:53:19.543 CST [3851] STATEMENT:  insert into test_vector values (4, '{-1.0,2., 3}' );
+2024-04-04 22:53:37.383 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0" at character 36
+2024-04-04 22:53:37.383 CST [3851] STATEMENT:  insert into test_vector values (5, '{-1.0,2.0.1, 3}' );
+2024-04-04 22:53:40.072 CST [3851] ERROR:  invalid input syntax for type vector: "-1.0" at character 36
+2024-04-04 22:53:40.072 CST [3851] STATEMENT:  insert into test_vector values (5, '{-1.0,2.0., 3}' );
+2024-04-04 22:53:53.183 CST [3851] ERROR:  invalid input syntax for type vector: "{{-1.0,2.0, 3}" at character 36
+2024-04-04 22:53:53.183 CST [3851] STATEMENT:  insert into test_vector values (5, '{{-1.0,2.0, 3}' );
+2024-04-04 22:56:35.714 CST [3851] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 22:56:35.714 CST [3851] DETAIL:  Key (id)=(5) already exists.
+2024-04-04 22:56:35.714 CST [3851] STATEMENT:  insert into test_vector values (5, '{-1.0,,2.0, 3}' );
+-1.2
+2.1345
+3
+-1.2 
+-1. 0
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1.1
+2.2
+3.3
+4.4
+1.1
+2.2
+3.3
+4.4
+-1.2 
+-1.2
+2.1345
+.3
+-1.2
+2.1345
+0.3
+-1.2
+2.1345
+.3
+--1.2
+1
+1
+- 1
+-1. 0
+- 1.0
+-1.0 
+-1.0
+.
+-1.0
+..2
+-1.0
+2.
+-1.0
+2.0
+3
+-1.0
+2.0.1
+-1.0
+2.0.
+-1.0
+2.0
+3
+-1.0
+2.0
+3
+2024-04-04 22:58:08.321 CST [3956] ERROR:  invalid input syntax for type vector: "-1.2 " at character 36
+2024-04-04 22:58:08.321 CST [3956] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-04 22:58:08.321 CST [3956] ERROR:  invalid input syntax for type vector: " {-1.2, 2.1345, 3}" at character 36
+2024-04-04 22:58:08.321 CST [3956] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-04 22:58:08.321 CST [3956] ERROR:  invalid input syntax for type vector: "-1. 0" at character 36
+2024-04-04 22:58:08.321 CST [3956] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-04 22:58:25.060 CST [3956] ERROR:  invalid input syntax for type vector: "{-1.2,, 2.1345, 3}" at character 36
+2024-04-04 22:58:25.060 CST [3956] STATEMENT:  insert into test_vector values (2, '{-1.2,, 2.1345, 3}');
+2024-04-04 22:58:29.821 CST [3956] ERROR:  invalid input syntax for type vector: "-1." at character 36
+2024-04-04 22:58:29.821 CST [3956] STATEMENT:  insert into test_vector values (2, '{-1.,2, 2.1345, 3}');
+2024-04-04 22:58:35.259 CST [3956] ERROR:  invalid input syntax for type vector: "{-1.2,, 2.1345, 3}" at character 36
+2024-04-04 22:58:35.259 CST [3956] STATEMENT:  insert into test_vector values (2, '{-1.2,, 2.1345, 3}');
+2024-04-04 23:06:35.382 CST [3956] ERROR:  invalid input syntax for type vector: "{}" at character 35
+2024-04-04 23:06:35.382 CST [3956] STATEMENT:  insert into test_vector values (2,'{}');
+2024-04-04 23:06:35.382 CST [3956] ERROR:  invalid input syntax for type vector: "{1, 2, 3} " at character 35
+2024-04-04 23:06:35.382 CST [3956] STATEMENT:  insert into test_vector values (3,'{1, 2, 3} ');
+2024-04-04 23:06:35.382 CST [3956] ERROR:  invalid input syntax for type vector: " {1, 2, 3}" at character 35
+2024-04-04 23:06:35.382 CST [3956] STATEMENT:  insert into test_vector values (4,' {1, 2, 3}');
+2024-04-04 23:06:35.383 CST [3956] ERROR:  invalid input syntax for type vector: "++1.0" at character 35
+2024-04-04 23:06:35.383 CST [3956] STATEMENT:  insert into test_vector values (5,'{++1.0, 2,3}');
+2024-04-04 23:06:35.383 CST [3956] ERROR:  invalid input syntax for type vector: " 1. 0" at character 35
+2024-04-04 23:06:35.383 CST [3956] STATEMENT:  insert into test_vector values (7,'{ 1. 0, 2,3}');
+2024-04-04 23:06:35.384 CST [3956] ERROR:  invalid input syntax for type vector: " 1 23" at character 35
+2024-04-04 23:06:35.384 CST [3956] STATEMENT:  insert into test_vector values (8,'{ 1 23, 2,3}');
+2024-04-04 23:06:35.384 CST [3956] ERROR:  invalid input syntax for type vector: " 123 " at character 36
+2024-04-04 23:06:35.384 CST [3956] STATEMENT:  insert into test_vector values (10,'{ 123 , 2,3}');
+2024-04-04 23:06:35.384 CST [3956] ERROR:  invalid input syntax for type vector: "{1,,2,3}" at character 36
+2024-04-04 23:06:35.384 CST [3956] STATEMENT:  insert into test_vector values (11,'{1,,2,3}');
+2024-04-04 23:06:35.385 CST [3956] ERROR:  invalid input syntax for type vector: "{1,2,3,}" at character 36
+2024-04-04 23:06:35.385 CST [3956] STATEMENT:  insert into test_vector values (12,'{1,2,3,}');
+2024-04-04 23:06:35.385 CST [3956] ERROR:  invalid input syntax for type vector: " 1.2 " at character 36
+2024-04-04 23:06:35.385 CST [3956] STATEMENT:  insert into test_vector values (3, '{ 1.2 , 2.1345, 3}');
+2024-04-04 23:06:35.386 CST [3956] ERROR:  invalid input syntax for type vector: "{1,2,inf}" at character 36
+2024-04-04 23:06:35.386 CST [3956] STATEMENT:  insert into test_vector values (14,'{1,2,inf}');
+2024-04-04 23:06:35.386 CST [3956] ERROR:  invalid input syntax for type vector: "{1,2,NaN}" at character 36
+2024-04-04 23:06:35.386 CST [3956] STATEMENT:  insert into test_vector values (24,'{1,2,NaN}');
+2024-04-04 23:06:35.386 CST [3956] ERROR:  invalid input syntax for type vector: "{1,2,3}{4,5,6}" at character 36
+2024-04-04 23:06:35.386 CST [3956] STATEMENT:  insert into test_vector values (19,'{1,2,3}{4,5,6}');
+2024-04-04 23:06:35.386 CST [3956] ERROR:  invalid input syntax for type vector: "1.23e 4" at character 36
+2024-04-04 23:06:35.386 CST [3956] STATEMENT:  insert into test_vector values (21,'{1.23e 4}');
+2024-04-04 23:06:35.387 CST [3956] ERROR:  invalid input syntax for type vector: "1" at character 36
+2024-04-04 23:06:35.387 CST [3956] STATEMENT:  insert into test_vector values (22,'{1,2..3,5}');
+2024-04-04 23:06:35.387 CST [3956] ERROR:  invalid input syntax for type vector: "{}" at character 37
+2024-04-04 23:06:35.387 CST [3956] STATEMENT:  insert into test_vector values ( 9, '{}');
+2024-04-04 23:06:35.387 CST [3956] ERROR:  invalid input syntax for type vector: "{1, 2, 3} " at character 38
+2024-04-04 23:06:35.387 CST [3956] STATEMENT:  insert into test_vector values ( 10, '{1, 2, 3} ');
+2024-04-04 23:06:35.388 CST [3956] ERROR:  invalid input syntax for type vector: " {1, 2, 3}" at character 38
+2024-04-04 23:06:35.388 CST [3956] STATEMENT:  insert into test_vector values ( 11, ' {1, 2, 3}');
+2024-04-04 23:06:35.388 CST [3956] ERROR:  invalid input syntax for type vector: "++1.0" at character 38
+2024-04-04 23:06:35.388 CST [3956] STATEMENT:  insert into test_vector values ( 12, '{++1.0, 2,3}');
+2024-04-04 23:06:35.389 CST [3956] ERROR:  invalid input syntax for type vector: " 1. 0" at character 38
+2024-04-04 23:06:35.389 CST [3956] STATEMENT:  insert into test_vector values ( 14, '{ 1. 0, 2,3}');
+2024-04-04 23:06:35.389 CST [3956] ERROR:  invalid input syntax for type vector: " 1.23 " at character 38
+2024-04-04 23:06:35.389 CST [3956] STATEMENT:  insert into test_vector values ( 16, '{ 1.23 , 2,3}');
+2024-04-04 23:06:35.390 CST [3956] ERROR:  invalid input syntax for type vector: " +1.23 " at character 38
+2024-04-04 23:06:35.390 CST [3956] STATEMENT:  insert into test_vector values ( 17, '{ +1.23 , 2,3}');
+2024-04-04 23:06:35.390 CST [3956] ERROR:  invalid input syntax for type vector: " .1.23" at character 38
+2024-04-04 23:06:35.390 CST [3956] STATEMENT:  insert into test_vector values ( 18, '{ .1.23, 2,3}');
+2024-04-04 23:06:35.390 CST [3956] ERROR:  invalid input syntax for type vector: "{, 2,3}" at character 38
+2024-04-04 23:06:35.390 CST [3956] STATEMENT:  insert into test_vector values ( 19, '{, 2,3}');
+2024-04-04 23:06:35.390 CST [3956] ERROR:  invalid input syntax for type vector: "{3,,3}" at character 38
+2024-04-04 23:06:35.390 CST [3956] STATEMENT:  insert into test_vector values ( 20, '{3,,3}');
+2024-04-04 23:06:35.391 CST [3956] ERROR:  invalid input syntax for type vector: " 1 23" at character 38
+2024-04-04 23:06:35.391 CST [3956] STATEMENT:  insert into test_vector values ( 21, '{ 1 23, 2,3}');
+2024-04-04 23:06:35.393 CST [3956] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 23:06:35.393 CST [3956] DETAIL:  Key (id)=(22) already exists.
+2024-04-04 23:06:35.393 CST [3956] STATEMENT:  insert into test_vector values ( 22, '{ .0, 2,3}');
+2024-04-04 23:06:35.393 CST [3956] ERROR:  syntax error at or near "valid" at character 1
+2024-04-04 23:06:35.393 CST [3956] STATEMENT:  valid
+	   insert into test_vector values (2,'{1}');
+2024-04-04 23:06:35.395 CST [3956] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 23:06:35.395 CST [3956] DETAIL:  Key (id)=(6) already exists.
+2024-04-04 23:06:35.395 CST [3956] STATEMENT:  insert into test_vector values (6,'{+2.1, 3, 1}');
+2024-04-04 23:08:08.697 CST [3956] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 23:08:08.697 CST [3956] DETAIL:  Key (id)=(8) already exists.
+2024-04-04 23:08:08.697 CST [3956] STATEMENT:  insert into test_vector values (8,'{0x1, 2,3}');
+2024-04-04 23:10:14.183 CST [3956] ERROR:  invalid input syntax for type vector: " ab0" at character 35
+2024-04-04 23:10:14.183 CST [3956] STATEMENT:  insert into test_vector values (6,'{ ab0, 2,3}');
+2024-04-04 23:10:17.477 CST [3956] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-04 23:10:17.477 CST [3956] DETAIL:  Key (id)=(6) already exists.
+2024-04-04 23:10:17.477 CST [3956] STATEMENT:  insert into test_vector values (6,'{ 0xab0, 2,3}');
+-1.2
+2.1345
+3
+-1.2 
+-1. 0
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1.1
+2.2
+3.3
+4.4
+1.1
+2.2
+3.3
+4.4
+-1.
+-1.2
+2.1345
+3
+++1.0
+  1.0
+2
+3
+ 1. 0
+ 1 23
+  123
+2
+3
+ 123 
+1
+2
+3
+ 1.2 
+1.23e 4
+0x1.921fb6p+1
+1
+2..3
+++1.0
+  1.0
+2
+3
+ 1. 0
+  123
+2
+3
+ 1.23 
+ +1.23 
+ .1.23
+ 1 23
+  .0
+2
+3
+  .0
+2
+3
+ .0
+2
+3
+ .0
+2
+3
+1
+2
+3
+1
+2.1
+3
+ 2.1
+3
+1
++2.1
+3
+1
+ 1.111111
+  1
+2
+3
+0x1
+2
+3
+0x1
+2
+3
+ ab0
+ 0xab0
+2
+3
+2024-04-05 14:40:33.693 CST [7814] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:40:33.693 CST [7814] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:40:33.693 CST [7814] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:40:33.693 CST [7814] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:40:33.693 CST [7814] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 14:40:33.693 CST [7814] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 14:40:53.348 CST [7814] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:40:53.348 CST [7814] STATEMENT:  insert into test_vector values (1, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:40:56.476 CST [7814] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:40:56.476 CST [7814] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:40:56.476 CST [7814] STATEMENT:  insert into test_vector values (1, '{ -1.2, 2.1345, 3}');
+2024-04-05 14:41:01.092 CST [7814] ERROR:  invalid input syntax for type complex: "{-" at character 36
+2024-04-05 14:41:01.092 CST [7814] STATEMENT:  insert into test_vector values (1, '{- 1.2, 2.1345, 3}');
+2024-04-05 14:41:04.447 CST [7814] ERROR:  invalid input syntax for type complex: "{-1 .2, 2.1345, 3}" at character 36
+2024-04-05 14:41:04.447 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1 .2, 2.1345, 3}');
+2024-04-05 14:41:07.989 CST [7814] ERROR:  invalid input syntax for type complex: "{-1. 2, 2.1345, 3}" at character 36
+2024-04-05 14:41:07.989 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1. 2, 2.1345, 3}');
+2024-04-05 14:41:11.509 CST [7814] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:41:11.509 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:41:15.805 CST [7814] ERROR:  invalid input syntax for type complex: "{-1.2, 2 .1345, 3}" at character 36
+2024-04-05 14:41:15.805 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1.2, 2 .1345, 3}');
+2024-04-05 14:41:20.577 CST [7814] ERROR:  invalid input syntax for type complex: "{-1.2, 2.1345, 3} " at character 36
+2024-04-05 14:41:20.577 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3} ');
+2024-04-05 14:41:23.839 CST [7814] ERROR:  invalid input syntax for type complex: "{-1.2, 2.1345, 3 }" at character 36
+2024-04-05 14:41:23.839 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3 }');
+2024-04-05 14:41:28.998 CST [7814] ERROR:  invalid input syntax for type complex: ",{-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:41:28.998 CST [7814] STATEMENT:  insert into test_vector values (1, ',{-1.2, 2.1345, 3}');
+2024-04-05 14:41:31.994 CST [7814] ERROR:  invalid input syntax for type complex: "{,-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:41:31.994 CST [7814] STATEMENT:  insert into test_vector values (1, '{,-1.2, 2.1345, 3}');
+2024-04-05 14:41:35.371 CST [7814] ERROR:  invalid input syntax for type complex: "{-,1.2, 2.1345, 3}" at character 36
+2024-04-05 14:41:35.371 CST [7814] STATEMENT:  insert into test_vector values (1, '{-,1.2, 2.1345, 3}');
+2024-04-05 14:41:38.543 CST [7814] ERROR:  invalid input syntax for type complex: "{-1,.2, 2.1345, 3}" at character 36
+2024-04-05 14:41:38.543 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1,.2, 2.1345, 3}');
+2024-04-05 14:42:57.868 CST [7814] ERROR:  invalid input syntax for type complex: "{-1..2, 2.1345, 3}" at character 36
+2024-04-05 14:42:57.868 CST [7814] STATEMENT:  insert into test_vector values (1, '{-1..2, 2.1345, 3}');
+2024-04-05 14:43:07.831 CST [7814] ERROR:  invalid input syntax for type complex: "{+" at character 36
+2024-04-05 14:43:07.831 CST [7814] STATEMENT:  insert into test_vector values (1, '{+}');
+2024-04-05 14:43:10.749 CST [7814] ERROR:  invalid input syntax for type complex: "{-" at character 36
+2024-04-05 14:43:10.749 CST [7814] STATEMENT:  insert into test_vector values (1, '{-}');
+2024-04-05 14:43:13.135 CST [7814] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:43:13.135 CST [7814] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:43:13.135 CST [7814] STATEMENT:  insert into test_vector values (1, '{1}');
+2024-04-05 14:43:15.831 CST [7814] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:43:15.831 CST [7814] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:43:15.831 CST [7814] STATEMENT:  insert into test_vector values (1, '{1.}');
+2024-04-05 14:44:37.059 CST [7917] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:44:37.059 CST [7917] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:44:37.059 CST [7917] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:44:37.059 CST [7917] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:44:37.059 CST [7917] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 14:44:37.059 CST [7917] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 14:44:44.984 CST [7917] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:44:44.984 CST [7917] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:44:44.984 CST [7917] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-05 14:44:47.882 CST [7917] ERROR:  invalid input syntax for type complex: "{-1..2, 2.1345, 3}" at character 36
+2024-04-05 14:44:47.882 CST [7917] STATEMENT:  insert into test_vector values (1, '{-1..2, 2.1345, 3}');
+2024-04-05 14:44:50.768 CST [7917] ERROR:  invalid input syntax for type complex: "{-1., 2.1345, 3}" at character 36
+2024-04-05 14:44:50.768 CST [7917] STATEMENT:  insert into test_vector values (1, '{-1., 2.1345, 3}');
+2024-04-05 14:44:53.900 CST [7917] ERROR:  invalid input syntax for type complex: "{., 2.1345, 3}" at character 36
+2024-04-05 14:44:53.900 CST [7917] STATEMENT:  insert into test_vector values (1, '{., 2.1345, 3}');
+2024-04-05 14:44:57.521 CST [7917] ERROR:  invalid input syntax for type complex: "{-., 2.1345, 3}" at character 36
+2024-04-05 14:44:57.521 CST [7917] STATEMENT:  insert into test_vector values (1, '{-., 2.1345, 3}');
+2024-04-05 14:45:00.837 CST [7917] ERROR:  invalid input syntax for type complex: "{0., 2.1345, 3}" at character 36
+2024-04-05 14:45:00.837 CST [7917] STATEMENT:  insert into test_vector values (1, '{0., 2.1345, 3}');
+2024-04-05 14:45:04.305 CST [7917] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:45:04.305 CST [7917] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:45:04.305 CST [7917] STATEMENT:  insert into test_vector values (1, '{0.0, 2.1345, 3}');
+2024-04-05 14:45:06.890 CST [7917] ERROR:  invalid input syntax for type complex: "{.0, 2.1345, 3}" at character 36
+2024-04-05 14:45:06.890 CST [7917] STATEMENT:  insert into test_vector values (1, '{.0, 2.1345, 3}');
+2024-04-05 14:45:12.311 CST [7917] ERROR:  invalid input syntax for type complex: "{0., 2.1345, 3}" at character 36
+2024-04-05 14:45:12.311 CST [7917] STATEMENT:  insert into test_vector values (1, '{0., 2.1345, 3}');
+2024-04-05 14:45:15.192 CST [7917] ERROR:  invalid input syntax for type complex: "{0,, 2.1345, 3}" at character 36
+2024-04-05 14:45:15.192 CST [7917] STATEMENT:  insert into test_vector values (1, '{0,, 2.1345, 3}');
+2024-04-05 14:45:17.434 CST [7917] ERROR:  invalid input syntax for type complex: "{0, , 2.1345, 3}" at character 36
+2024-04-05 14:45:17.434 CST [7917] STATEMENT:  insert into test_vector values (1, '{0, , 2.1345, 3}');
+2024-04-05 14:45:20.875 CST [7917] ERROR:  invalid input syntax for type complex: "{0 , 2.1345, 3}" at character 36
+2024-04-05 14:45:20.875 CST [7917] STATEMENT:  insert into test_vector values (1, '{0 , 2.1345, 3}');
+2024-04-05 14:45:25.726 CST [7917] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:45:25.726 CST [7917] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:45:25.726 CST [7917] STATEMENT:  insert into test_vector values (1, '{}');
+2024-04-05 14:45:28.795 CST [7917] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:45:28.795 CST [7917] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:45:28.795 CST [7917] STATEMENT:  insert into test_vector values (1, '{ }');
+2024-04-05 14:46:33.186 CST [8005] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:46:33.186 CST [8005] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:46:33.186 CST [8005] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:46:33.186 CST [8005] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:46:33.186 CST [8005] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 14:46:33.186 CST [8005] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 14:46:40.330 CST [8005] ERROR:  invalid input syntax for type complex: "{ }" at character 36
+2024-04-05 14:46:40.330 CST [8005] STATEMENT:  insert into test_vector values (1, '{ }');
+2024-04-05 14:46:42.603 CST [8005] ERROR:  invalid input syntax for type complex: "{}" at character 36
+2024-04-05 14:46:42.603 CST [8005] STATEMENT:  insert into test_vector values (1, '{}');
+2024-04-05 14:46:44.976 CST [8005] ERROR:  invalid input syntax for type complex: "{,}" at character 36
+2024-04-05 14:46:44.976 CST [8005] STATEMENT:  insert into test_vector values (1, '{,}');
+2024-04-05 14:46:47.488 CST [8005] ERROR:  invalid input syntax for type complex: "{.}" at character 36
+2024-04-05 14:46:47.488 CST [8005] STATEMENT:  insert into test_vector values (1, '{.}');
+2024-04-05 14:46:50.038 CST [8005] ERROR:  invalid input syntax for type complex: "{+" at character 36
+2024-04-05 14:46:50.038 CST [8005] STATEMENT:  insert into test_vector values (1, '{+}');
+2024-04-05 14:46:52.906 CST [8005] ERROR:  invalid input syntax for type complex: "{-" at character 36
+2024-04-05 14:46:52.906 CST [8005] STATEMENT:  insert into test_vector values (1, '{-}');
+2024-04-05 14:46:55.426 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:46:55.426 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:46:55.426 CST [8005] STATEMENT:  insert into test_vector values (1, '{1}');
+2024-04-05 14:46:57.506 CST [8005] ERROR:  invalid input syntax for type complex: "{x}" at character 36
+2024-04-05 14:46:57.506 CST [8005] STATEMENT:  insert into test_vector values (1, '{x}');
+2024-04-05 14:47:04.225 CST [8005] ERROR:  invalid input syntax for type complex: "{  }" at character 36
+2024-04-05 14:47:04.225 CST [8005] STATEMENT:  insert into test_vector values (1, '{  }');
+2024-04-05 14:47:07.797 CST [8005] ERROR:  invalid input syntax for type complex: "{ 1 }" at character 36
+2024-04-05 14:47:07.797 CST [8005] STATEMENT:  insert into test_vector values (1, '{ 1 }');
+2024-04-05 14:47:10.172 CST [8005] ERROR:  invalid input syntax for type complex: "{1 }" at character 36
+2024-04-05 14:47:10.172 CST [8005] STATEMENT:  insert into test_vector values (1, '{1 }');
+2024-04-05 14:48:22.836 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:48:22.836 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:48:22.836 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,2,3}');
+2024-04-05 14:48:25.698 CST [8005] ERROR:  invalid input syntax for type complex: "{1.,2,3}" at character 36
+2024-04-05 14:48:25.698 CST [8005] STATEMENT:  insert into test_vector values (1, '{1.,2,3}');
+2024-04-05 14:48:29.604 CST [8005] ERROR:  invalid input syntax for type complex: "{1,.2,3}" at character 36
+2024-04-05 14:48:29.604 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,.2,3}');
+2024-04-05 14:48:33.366 CST [8005] ERROR:  invalid input syntax for type complex: "{1,2.,3}" at character 36
+2024-04-05 14:48:33.366 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,2.,3}');
+2024-04-05 14:48:36.225 CST [8005] ERROR:  invalid input syntax for type complex: "{1,2,.3}" at character 36
+2024-04-05 14:48:36.225 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,2,.3}');
+2024-04-05 14:48:39.943 CST [8005] ERROR:  invalid input syntax for type complex: " {1,2,3}" at character 36
+2024-04-05 14:48:39.943 CST [8005] STATEMENT:  insert into test_vector values (1, ' {1,2,3}');
+2024-04-05 14:48:43.746 CST [8005] ERROR:  invalid input syntax for type complex: "{1,2,3} " at character 36
+2024-04-05 14:48:43.746 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,2,3} ');
+2024-04-05 14:48:48.194 CST [8005] ERROR:  invalid input syntax for type complex: "{1,2,3" at character 36
+2024-04-05 14:48:48.194 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,2,3');
+2024-04-05 14:48:51.214 CST [8005] ERROR:  invalid input syntax for type complex: "1,2,3" at character 36
+2024-04-05 14:48:51.214 CST [8005] STATEMENT:  insert into test_vector values (1, '1,2,3');
+2024-04-05 14:48:58.002 CST [8005] ERROR:  invalid input syntax for type complex: "1,2,3}" at character 36
+2024-04-05 14:48:58.002 CST [8005] STATEMENT:  insert into test_vector values (1, '1,2,3}');
+2024-04-05 14:49:01.358 CST [8005] ERROR:  invalid input syntax for type complex: "{,2,3}" at character 36
+2024-04-05 14:49:01.358 CST [8005] STATEMENT:  insert into test_vector values (1, '{,2,3}');
+2024-04-05 14:49:05.000 CST [8005] ERROR:  invalid input syntax for type complex: "" at character 36
+2024-04-05 14:49:05.000 CST [8005] STATEMENT:  insert into test_vector values (1, '');
+2024-04-05 14:49:06.621 CST [8005] ERROR:  invalid input syntax for type complex: " " at character 36
+2024-04-05 14:49:06.621 CST [8005] STATEMENT:  insert into test_vector values (1, ' ');
+2024-04-05 14:49:14.910 CST [8005] ERROR:  invalid input syntax for type complex: "{11.,2,3}" at character 36
+2024-04-05 14:49:14.910 CST [8005] STATEMENT:  insert into test_vector values (1, '{11.,2,3}');
+2024-04-05 14:49:18.237 CST [8005] ERROR:  invalid input syntax for type complex: "{11s,2,3}" at character 36
+2024-04-05 14:49:18.237 CST [8005] STATEMENT:  insert into test_vector values (1, '{11s,2,3}');
+2024-04-05 14:49:23.844 CST [8005] ERROR:  invalid input syntax for type complex: "{11,  ,2,3}" at character 36
+2024-04-05 14:49:23.844 CST [8005] STATEMENT:  insert into test_vector values (1, '{11,  ,2,3}');
+2024-04-05 14:49:26.875 CST [8005] ERROR:  invalid input syntax for type complex: "{11,  .,2,3}" at character 36
+2024-04-05 14:49:26.875 CST [8005] STATEMENT:  insert into test_vector values (1, '{11,  .,2,3}');
+2024-04-05 14:49:36.745 CST [8005] ERROR:  invalid input syntax for type complex: "{11, ,2.,.3}" at character 36
+2024-04-05 14:49:36.745 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, ,2.,.3}');
+2024-04-05 14:49:47.294 CST [8005] ERROR:  invalid input syntax for type complex: "{11, 2,.3}" at character 36
+2024-04-05 14:49:47.294 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, 2,.3}');
+2024-04-05 14:50:24.195 CST [8005] ERROR:  invalid input syntax for type complex: "{11, +2,.3}" at character 36
+2024-04-05 14:50:24.195 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +2,.3}');
+2024-04-05 14:50:28.991 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:50:28.991 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:50:28.991 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +2,3}');
+2024-04-05 14:50:31.854 CST [8005] ERROR:  invalid input syntax for type complex: "{11, ++2,3}" at character 36
+2024-04-05 14:50:31.854 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, ++2,3}');
+2024-04-05 14:50:34.201 CST [8005] ERROR:  invalid input syntax for type complex: "{11, +-2,3}" at character 36
+2024-04-05 14:50:34.201 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +-2,3}');
+2024-04-05 14:50:37.396 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:50:37.396 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:50:37.396 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, -2,3}');
+2024-04-05 14:50:40.250 CST [8005] ERROR:  invalid input syntax for type complex: "{11, --2,3}" at character 36
+2024-04-05 14:50:40.250 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, --2,3}');
+2024-04-05 14:50:44.273 CST [8005] ERROR:  invalid input syntax for type complex: "{11, 2+,3}" at character 36
+2024-04-05 14:50:44.273 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, 2+,3}');
+2024-04-05 14:50:46.753 CST [8005] ERROR:  invalid input syntax for type complex: "{11" at character 36
+2024-04-05 14:50:46.753 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, 2+2,3}');
+2024-04-05 14:50:52.243 CST [8005] ERROR:  invalid input syntax for type complex: "{11" at character 36
+2024-04-05 14:50:52.243 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, 2-2,3}');
+2024-04-05 14:50:56.180 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:50:56.180 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:50:56.180 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, 22,3}');
+2024-04-05 14:50:59.461 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:50:59.461 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:50:59.461 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, -22,3}');
+2024-04-05 14:51:03.339 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:51:03.339 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:51:03.339 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +22,3}');
+2024-04-05 14:51:07.475 CST [8005] ERROR:  invalid input syntax for type complex: "+{11, +22,3}" at character 36
+2024-04-05 14:51:07.475 CST [8005] STATEMENT:  insert into test_vector values (1, '+{11, +22,3}');
+2024-04-05 14:51:10.837 CST [8005] ERROR:  invalid input syntax for type complex: "，{11, +22,3}" at character 36
+2024-04-05 14:51:10.837 CST [8005] STATEMENT:  insert into test_vector values (1, '，{11, +22,3}');
+2024-04-05 14:51:17.691 CST [8005] ERROR:  invalid input syntax for type complex: ".{11, +22,3}" at character 36
+2024-04-05 14:51:17.691 CST [8005] STATEMENT:  insert into test_vector values (1, '.{11, +22,3}');
+2024-04-05 14:51:20.264 CST [8005] ERROR:  invalid input syntax for type complex: ",{11, +22,3}" at character 36
+2024-04-05 14:51:20.264 CST [8005] STATEMENT:  insert into test_vector values (1, ',{11, +22,3}');
+2024-04-05 14:51:24.766 CST [8005] ERROR:  invalid input syntax for type complex: "{.11, +22,3}" at character 36
+2024-04-05 14:51:24.766 CST [8005] STATEMENT:  insert into test_vector values (1, '{.11, +22,3}');
+2024-04-05 14:51:28.138 CST [8005] ERROR:  invalid input syntax for type complex: "{,11, +22,3}" at character 36
+2024-04-05 14:51:28.138 CST [8005] STATEMENT:  insert into test_vector values (1, '{,11, +22,3}');
+2024-04-05 14:51:33.246 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:51:33.246 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:51:33.246 CST [8005] STATEMENT:  insert into test_vector values (1, '{1,1, +22,3}');
+2024-04-05 14:51:36.199 CST [8005] ERROR:  invalid input syntax for type complex: "{11,, +22,3}" at character 36
+2024-04-05 14:51:36.199 CST [8005] STATEMENT:  insert into test_vector values (1, '{11,, +22,3}');
+2024-04-05 14:51:41.275 CST [8005] ERROR:  invalid input syntax for type complex: ",11, +22,3}" at character 36
+2024-04-05 14:51:41.275 CST [8005] STATEMENT:  insert into test_vector values (1, ',11, +22,3}');
+2024-04-05 14:51:48.011 CST [8005] ERROR:  invalid input syntax for type complex: "{11, +22,3," at character 36
+2024-04-05 14:51:48.011 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +22,3,');
+2024-04-05 14:53:22.727 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:53:22.727 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:53:22.727 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +22,3,}');
+2024-04-05 14:53:44.946 CST [8005] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:53:44.946 CST [8005] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:53:44.946 CST [8005] STATEMENT:  insert into test_vector values (1, '{11, +22,3, }');
+2024-04-05 14:55:17.967 CST [8099] ERROR:  invalid input syntax for type complex: "{-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:55:17.967 CST [8099] STATEMENT:  insert into test_vector values (1, '{-1.2, 2.1345, 3}');
+2024-04-05 14:55:17.968 CST [8099] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:55:17.968 CST [8099] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:55:17.968 CST [8099] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:55:17.968 CST [8099] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:55:17.968 CST [8099] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 14:55:17.968 CST [8099] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 14:55:26.651 CST [8099] ERROR:  invalid input syntax for type complex: "{11, +22,3, }" at character 36
+2024-04-05 14:55:26.651 CST [8099] STATEMENT:  insert into test_vector values (1, '{11, +22,3, }');
+2024-04-05 14:55:28.551 CST [8099] ERROR:  invalid input syntax for type complex: "{11, +22,3,}" at character 36
+2024-04-05 14:55:28.551 CST [8099] STATEMENT:  insert into test_vector values (1, '{11, +22,3,}');
+2024-04-05 14:55:30.342 CST [8099] ERROR:  invalid input syntax for type complex: "{11, +22,3}" at character 36
+2024-04-05 14:55:30.342 CST [8099] STATEMENT:  insert into test_vector values (1, '{11, +22,3}');
+2024-04-05 14:55:50.978 CST [8099] ERROR:  invalid input syntax for type complex: "{11,+22,3}" at character 36
+2024-04-05 14:55:50.978 CST [8099] STATEMENT:  insert into test_vector values (1, '{11,+22,3}');
+2024-04-05 14:55:58.724 CST [8099] ERROR:  invalid input syntax for type complex: "{11,+22,3}" at character 36
+2024-04-05 14:55:58.724 CST [8099] STATEMENT:  insert into test_vector values (1, '{11,+22,3}');
+2024-04-05 14:56:02.005 CST [8099] ERROR:  invalid input syntax for type complex: "{11,-22,3}" at character 36
+2024-04-05 14:56:02.005 CST [8099] STATEMENT:  insert into test_vector values (1, '{11,-22,3}');
+2024-04-05 14:56:06.072 CST [8099] ERROR:  invalid input syntax for type complex: "{11, 22,3}" at character 36
+2024-04-05 14:56:06.072 CST [8099] STATEMENT:  insert into test_vector values (1, '{11, 22,3}');
+2024-04-05 14:56:13.683 CST [8099] ERROR:  invalid input syntax for type complex: "{11, 22,3}" at character 35
+2024-04-05 14:56:13.683 CST [8099] STATEMENT:  insert into test_vector values (1,'{11, 22,3}');
+2024-04-05 14:58:36.822 CST [8203] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 14:58:36.822 CST [8203] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 14:58:36.822 CST [8203] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 14:58:36.822 CST [8203] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 14:58:36.822 CST [8203] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 14:58:36.822 CST [8203] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 14:58:42.619 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:58:42.619 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:58:42.619 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, 22,3}');
+2024-04-05 14:58:46.486 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 14:58:46.486 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 14:58:46.486 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3}');
+2024-04-05 14:58:49.349 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22 ,3}" at character 35
+2024-04-05 14:58:49.349 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22 ,3}');
+2024-04-05 14:58:53.875 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22,3,}" at character 35
+2024-04-05 14:58:53.875 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3,}');
+2024-04-05 14:58:56.429 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22,3.}" at character 35
+2024-04-05 14:58:56.429 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3.}');
+2024-04-05 14:58:59.034 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22,3 }" at character 35
+2024-04-05 14:58:59.034 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3 }');
+2024-04-05 14:59:02.908 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22,3}}" at character 35
+2024-04-05 14:59:02.908 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3}}');
+2024-04-05 14:59:07.142 CST [8203] ERROR:  invalid input syntax for type complex: "{11, +22,3{}" at character 35
+2024-04-05 14:59:07.142 CST [8203] STATEMENT:  insert into test_vector values (1,'{11, +22,3{}');
+2024-04-05 14:59:19.091 CST [8203] ERROR:  invalid input syntax for type complex: "{,}" at character 35
+2024-04-05 14:59:19.091 CST [8203] STATEMENT:  insert into test_vector values (1,'{,}');
+2024-04-05 14:59:21.529 CST [8203] ERROR:  invalid input syntax for type complex: "{}" at character 35
+2024-04-05 14:59:21.529 CST [8203] STATEMENT:  insert into test_vector values (1,'{}');
+2024-04-05 14:59:23.447 CST [8203] ERROR:  invalid input syntax for type complex: "{ }" at character 35
+2024-04-05 14:59:23.447 CST [8203] STATEMENT:  insert into test_vector values (1,'{ }');
+2024-04-05 14:59:25.602 CST [8203] ERROR:  invalid input syntax for type complex: "{-}" at character 35
+2024-04-05 14:59:25.602 CST [8203] STATEMENT:  insert into test_vector values (1,'{-}');
+2024-04-05 14:59:28.676 CST [8203] ERROR:  invalid input syntax for type complex: "{.}" at character 35
+2024-04-05 14:59:28.676 CST [8203] STATEMENT:  insert into test_vector values (1,'{.}');
+2024-04-05 15:01:31.352 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:01:31.352 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:01:31.352 CST [8203] STATEMENT:  insert into test_vector values (1,'{1,2,3}');
+2024-04-05 15:01:34.383 CST [8203] ERROR:  invalid input syntax for type complex: "{,1,2,3}" at character 35
+2024-04-05 15:01:34.383 CST [8203] STATEMENT:  insert into test_vector values (1,'{,1,2,3}');
+2024-04-05 15:01:36.355 CST [8203] ERROR:  invalid input syntax for type complex: "{,,1,2,3}" at character 35
+2024-04-05 15:01:36.355 CST [8203] STATEMENT:  insert into test_vector values (1,'{,,1,2,3}');
+2024-04-05 15:01:40.665 CST [8203] ERROR:  invalid input syntax for type complex: "{, 1,2,3}" at character 35
+2024-04-05 15:01:40.665 CST [8203] STATEMENT:  insert into test_vector values (1,'{, 1,2,3}');
+2024-04-05 15:01:43.165 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:01:43.165 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:01:43.165 CST [8203] STATEMENT:  insert into test_vector values (1,'{ 1,2,3}');
+2024-04-05 15:01:46.578 CST [8203] ERROR:  invalid input syntax for type complex: ",{ 1,2,3}" at character 35
+2024-04-05 15:01:46.578 CST [8203] STATEMENT:  insert into test_vector values (1,',{ 1,2,3}');
+2024-04-05 15:01:50.288 CST [8203] ERROR:  invalid input syntax for type complex: " { 1,2,3}" at character 35
+2024-04-05 15:01:50.288 CST [8203] STATEMENT:  insert into test_vector values (1,' { 1,2,3}');
+2024-04-05 15:01:53.190 CST [8203] ERROR:  invalid input syntax for type complex: "1{ 1,2,3}" at character 35
+2024-04-05 15:01:53.190 CST [8203] STATEMENT:  insert into test_vector values (1,'1{ 1,2,3}');
+2024-04-05 15:02:24.000 CST [8203] ERROR:  invalid input syntax for type complex: "{+" at character 35
+2024-04-05 15:02:24.000 CST [8203] STATEMENT:  insert into test_vector values (1,'{+ 1,2,3}');
+2024-04-05 15:02:28.229 CST [8203] ERROR:  invalid input syntax for type complex: "{+, 1,2,3}" at character 35
+2024-04-05 15:02:28.229 CST [8203] STATEMENT:  insert into test_vector values (1,'{+, 1,2,3}');
+2024-04-05 15:02:32.533 CST [8203] ERROR:  invalid input syntax for type complex: "{+.1,2,3}" at character 35
+2024-04-05 15:02:32.533 CST [8203] STATEMENT:  insert into test_vector values (1,'{+.1,2,3}');
+2024-04-05 15:02:36.404 CST [8203] ERROR:  invalid input syntax for type complex: "{+,1,2,3}" at character 35
+2024-04-05 15:02:36.404 CST [8203] STATEMENT:  insert into test_vector values (1,'{+,1,2,3}');
+2024-04-05 15:02:41.223 CST [8203] ERROR:  invalid input syntax for type complex: "{+,2,3}" at character 35
+2024-04-05 15:02:41.223 CST [8203] STATEMENT:  insert into test_vector values (1,'{+,2,3}');
+2024-04-05 15:02:43.832 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:02:43.832 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:02:43.832 CST [8203] STATEMENT:  insert into test_vector values (1,'{1,2,3}');
+2024-04-05 15:02:47.112 CST [8203] ERROR:  invalid input syntax for type complex: "{-,1,2,3}" at character 35
+2024-04-05 15:02:47.112 CST [8203] STATEMENT:  insert into test_vector values (1,'{-,1,2,3}');
+2024-04-05 15:02:49.783 CST [8203] ERROR:  invalid input syntax for type complex: "{-.1,2,3}" at character 35
+2024-04-05 15:02:49.783 CST [8203] STATEMENT:  insert into test_vector values (1,'{-.1,2,3}');
+2024-04-05 15:03:22.124 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:03:22.124 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:03:22.124 CST [8203] STATEMENT:  insert into test_vector values (1,'{-01,2,3}');
+2024-04-05 15:04:22.977 CST [8203] ERROR:  invalid input syntax for type complex: "{-.01,2,3}" at character 35
+2024-04-05 15:04:22.977 CST [8203] STATEMENT:  insert into test_vector values (1,'{-.01,2,3}');
+2024-04-05 15:04:26.539 CST [8203] ERROR:  invalid input syntax for type complex: "{.01,2,3}" at character 35
+2024-04-05 15:04:26.539 CST [8203] STATEMENT:  insert into test_vector values (1,'{.01,2,3}');
+2024-04-05 15:04:31.869 CST [8203] ERROR:  invalid input syntax for type complex: "{01.,2,3}" at character 35
+2024-04-05 15:04:31.869 CST [8203] STATEMENT:  insert into test_vector values (1,'{01.,2,3}');
+2024-04-05 15:04:35.557 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:04:35.557 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:04:35.557 CST [8203] STATEMENT:  insert into test_vector values (1,'{01,2,3}');
+2024-04-05 15:04:47.941 CST [8203] ERROR:  invalid input syntax for type complex: "{,2,3}" at character 35
+2024-04-05 15:04:47.941 CST [8203] STATEMENT:  insert into test_vector values (1,'{,2,3}');
+2024-04-05 15:04:50.866 CST [8203] ERROR:  invalid input syntax for type complex: "{;l,2,3}" at character 35
+2024-04-05 15:04:50.866 CST [8203] STATEMENT:  insert into test_vector values (1,'{;l,2,3}');
+2024-04-05 15:04:53.020 CST [8203] ERROR:  invalid input syntax for type complex: "{l,2,3}" at character 35
+2024-04-05 15:04:53.020 CST [8203] STATEMENT:  insert into test_vector values (1,'{l,2,3}');
+2024-04-05 15:04:57.747 CST [8203] ERROR:  invalid input syntax for type complex: "{.,2,3}" at character 35
+2024-04-05 15:04:57.747 CST [8203] STATEMENT:  insert into test_vector values (1,'{.,2,3}');
+2024-04-05 15:05:04.002 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3 }" at character 35
+2024-04-05 15:05:04.002 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3 }');
+2024-04-05 15:05:07.033 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3 4}" at character 35
+2024-04-05 15:05:07.033 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3 4}');
+2024-04-05 15:05:10.816 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:05:10.816 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:05:10.816 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,34}');
+2024-04-05 15:05:17.748 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3}}" at character 35
+2024-04-05 15:05:17.748 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3}}');
+2024-04-05 15:05:37.912 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3. }" at character 35
+2024-04-05 15:05:37.912 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3. }');
+2024-04-05 15:05:40.835 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3.}" at character 35
+2024-04-05 15:05:40.835 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3.}');
+2024-04-05 15:05:45.416 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3 3}" at character 35
+2024-04-05 15:05:45.416 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3 3}');
+2024-04-05 15:05:49.265 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3. 3}" at character 35
+2024-04-05 15:05:49.265 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3. 3}');
+2024-04-05 15:05:53.125 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3 .3}" at character 35
+2024-04-05 15:05:53.125 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3 .3}');
+2024-04-05 15:05:56.105 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2,3..3}" at character 35
+2024-04-05 15:05:56.105 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3..3}');
+2024-04-05 15:05:59.935 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:05:59.935 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:05:59.935 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2,3.3}');
+2024-04-05 15:06:02.775 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2..,3.3}" at character 35
+2024-04-05 15:06:02.775 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2..,3.3}');
+2024-04-05 15:06:07.477 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:06:07.477 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:06:07.477 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.1,3.3}');
+2024-04-05 15:06:09.754 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:06:09.754 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:06:09.754 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.13,3.3}');
+2024-04-05 15:06:12.832 CST [8203] ERROR:  invalid input syntax for type complex: "{2" at character 35
+2024-04-05 15:06:12.832 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.1.3,3.3}');
+2024-04-05 15:06:28.620 CST [8203] ERROR:  invalid input syntax for type complex: "{2,2.1,.3,3.3}" at character 35
+2024-04-05 15:06:28.620 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.1,.3,3.3}');
+2024-04-05 15:06:33.728 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:06:33.728 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:06:33.728 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.1,3,3.3}');
+2024-04-05 15:06:38.981 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:06:38.981 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:06:38.981 CST [8203] STATEMENT:  insert into test_vector values (1,'{2,2.13,3.3}');
+2024-04-05 15:08:56.312 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:08:56.312 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:08:56.312 CST [8203] STATEMENT:  insert into test_vector values (1,'{02,2.13,3.3}');
+2024-04-05 15:09:03.432 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:09:03.432 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:09:03.432 CST [8203] STATEMENT:  insert into test_vector values (1,'{0}');
+2024-04-05 15:09:08.329 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:09:08.329 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:09:08.329 CST [8203] STATEMENT:  insert into test_vector values (1,'{0.0}');
+2024-04-05 15:09:12.714 CST [8203] ERROR:  invalid input syntax for type complex: "{.0}" at character 35
+2024-04-05 15:09:12.714 CST [8203] STATEMENT:  insert into test_vector values (1,'{.0}');
+2024-04-05 15:09:15.968 CST [8203] ERROR:  invalid input syntax for type complex: "{0.}" at character 35
+2024-04-05 15:09:15.968 CST [8203] STATEMENT:  insert into test_vector values (1,'{0.}');
+2024-04-05 15:09:18.573 CST [8203] ERROR:  invalid input syntax for type complex: "{..}" at character 35
+2024-04-05 15:09:18.573 CST [8203] STATEMENT:  insert into test_vector values (1,'{..}');
+2024-04-05 15:09:29.331 CST [8203] ERROR:  invalid input syntax for type complex: "{..1}" at character 35
+2024-04-05 15:09:29.331 CST [8203] STATEMENT:  insert into test_vector values (1,'{..1}');
+2024-04-05 15:09:36.743 CST [8203] ERROR:  invalid input syntax for type complex: "{1.,}" at character 35
+2024-04-05 15:09:36.743 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.,}');
+2024-04-05 15:09:39.434 CST [8203] ERROR:  invalid input syntax for type complex: "{1.2,}" at character 35
+2024-04-05 15:09:39.434 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2,}');
+2024-04-05 15:09:45.547 CST [8203] ERROR:  invalid input syntax for type complex: "{,1.2}" at character 35
+2024-04-05 15:09:45.547 CST [8203] STATEMENT:  insert into test_vector values (1,'{,1.2}');
+2024-04-05 15:09:49.639 CST [8203] ERROR:  invalid input syntax for type complex: "{1.2} " at character 35
+2024-04-05 15:09:49.639 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2} ');
+2024-04-05 15:09:52.140 CST [8203] ERROR:  invalid input syntax for type complex: "{1.2 }" at character 35
+2024-04-05 15:09:52.140 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2 }');
+2024-04-05 15:09:54.690 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:09:54.690 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:09:54.690 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2}');
+2024-04-05 15:09:56.837 CST [8203] ERROR:  invalid input syntax for type complex: "{1.2}.,," at character 35
+2024-04-05 15:09:56.837 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2}.,,');
+2024-04-05 15:09:59.391 CST [8203] ERROR:  invalid input syntax for type complex: "{1.2}." at character 35
+2024-04-05 15:09:59.391 CST [8203] STATEMENT:  insert into test_vector values (1,'{1.2}.');
+2024-04-05 15:11:56.262 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:11:56.262 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:11:56.262 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2}');
+2024-04-05 15:11:58.226 CST [8203] ERROR:  invalid input syntax for type complex: "{1 2.2}" at character 35
+2024-04-05 15:11:58.226 CST [8203] STATEMENT:  insert into test_vector values (1,'{1 2.2}');
+2024-04-05 15:12:01.800 CST [8203] ERROR:  invalid input syntax for type complex: "{12 .2}" at character 35
+2024-04-05 15:12:01.800 CST [8203] STATEMENT:  insert into test_vector values (1,'{12 .2}');
+2024-04-05 15:12:04.753 CST [8203] ERROR:  invalid input syntax for type complex: "{12. 2}" at character 35
+2024-04-05 15:12:04.753 CST [8203] STATEMENT:  insert into test_vector values (1,'{12. 2}');
+2024-04-05 15:12:08.264 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:12:08.264 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:12:08.264 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,2}');
+2024-04-05 15:12:10.834 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2 ,2}" at character 35
+2024-04-05 15:12:10.834 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2 ,2}');
+2024-04-05 15:12:13.392 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:12:13.392 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:12:13.392 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2, 2}');
+2024-04-05 15:12:32.439 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:12:32.439 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:12:32.439 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2, 2}');
+2024-04-05 15:12:34.951 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2, 2 }" at character 35
+2024-04-05 15:12:34.951 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2, 2 }');
+2024-04-05 15:12:39.383 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2, , }" at character 35
+2024-04-05 15:12:39.383 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2, , }');
+2024-04-05 15:12:42.625 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2,  , }" at character 35
+2024-04-05 15:12:42.625 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  , }');
+2024-04-05 15:12:44.773 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2,  ,}" at character 35
+2024-04-05 15:12:44.773 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  ,}');
+2024-04-05 15:12:53.582 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2,  3,}" at character 35
+2024-04-05 15:12:53.582 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  3,}');
+2024-04-05 15:12:55.305 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:12:55.305 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:12:55.305 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  3}');
+2024-04-05 15:12:58.828 CST [8203] ERROR:  invalid input syntax for type complex: "{12.2,  3,,}" at character 35
+2024-04-05 15:12:58.828 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  3,,}');
+2024-04-05 15:16:29.189 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:16:29.189 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:16:29.189 CST [8203] STATEMENT:  insert into test_vector values (1,'{12.2,  3}');
+2024-04-05 15:16:33.978 CST [8203] ERROR:  invalid input syntax for type complex: "{{}{12.2,  3}" at character 35
+2024-04-05 15:16:33.978 CST [8203] STATEMENT:  insert into test_vector values (1,'{{}{12.2,  3}');
+2024-04-05 15:16:37.401 CST [8203] ERROR:  invalid input syntax for type complex: "{}{12.2,  3}" at character 35
+2024-04-05 15:16:37.401 CST [8203] STATEMENT:  insert into test_vector values (1,'{}{12.2,  3}');
+2024-04-05 15:16:42.204 CST [8203] ERROR:  invalid input syntax for type complex: "{}12.2,  3}" at character 35
+2024-04-05 15:16:42.204 CST [8203] STATEMENT:  insert into test_vector values (1,'{}12.2,  3}');
+2024-04-05 15:16:44.454 CST [8203] ERROR:  invalid input syntax for type complex: "{}12.2,  3" at character 35
+2024-04-05 15:16:44.454 CST [8203] STATEMENT:  insert into test_vector values (1,'{}12.2,  3');
+2024-04-05 15:16:51.675 CST [8203] ERROR:  invalid input syntax for type complex: "{1}12.2, 3}" at character 35
+2024-04-05 15:16:51.675 CST [8203] STATEMENT:  insert into test_vector values (1,'{1}12.2, 3}');
+2024-04-05 15:16:56.142 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:16:56.142 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:16:56.142 CST [8203] STATEMENT:  insert into test_vector values (1,'{112.2, 3}');
+2024-04-05 15:17:01.548 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:17:01.548 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:17:01.548 CST [8203] STATEMENT:  insert into test_vector values (1,'{ 12.2, 3}');
+2024-04-05 15:17:05.187 CST [8203] ERROR:  invalid input syntax for type complex: "{,12.2, 3}" at character 35
+2024-04-05 15:17:05.187 CST [8203] STATEMENT:  insert into test_vector values (1,'{,12.2, 3}');
+2024-04-05 15:17:08.788 CST [8203] ERROR:  invalid input syntax for type complex: "{.12.2, 3}" at character 35
+2024-04-05 15:17:08.788 CST [8203] STATEMENT:  insert into test_vector values (1,'{.12.2, 3}');
+2024-04-05 15:17:15.494 CST [8203] ERROR:  invalid input syntax for type complex: "{0.12.2" at character 35
+2024-04-05 15:17:15.494 CST [8203] STATEMENT:  insert into test_vector values (1,'{0.12.2, 3}');
+2024-04-05 15:17:23.171 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:17:23.171 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:17:23.171 CST [8203] STATEMENT:  insert into test_vector values (1,'{012.2, 3}');
+2024-04-05 15:20:41.962 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:20:41.962 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:20:41.962 CST [8203] STATEMENT:  insert into test_vector values (1,'{012.2, 3}');
+2024-04-05 15:20:44.864 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:20:44.864 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:20:44.864 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.2, 3}');
+2024-04-05 15:20:49.148 CST [8203] ERROR:  invalid input syntax for type complex: "{-" at character 35
+2024-04-05 15:20:49.148 CST [8203] STATEMENT:  insert into test_vector values (1,'{- 012.2, 3}');
+2024-04-05 15:20:52.429 CST [8203] ERROR:  invalid input syntax for type complex: "{-0 12.2, 3}" at character 35
+2024-04-05 15:20:52.429 CST [8203] STATEMENT:  insert into test_vector values (1,'{-0 12.2, 3}');
+2024-04-05 15:20:54.591 CST [8203] ERROR:  invalid input syntax for type complex: "{-0 1 2.2, 3}" at character 35
+2024-04-05 15:20:54.591 CST [8203] STATEMENT:  insert into test_vector values (1,'{-0 1 2.2, 3}');
+2024-04-05 15:21:00.774 CST [8203] ERROR:  invalid input syntax for type complex: "{-012 .2, 3}" at character 35
+2024-04-05 15:21:00.774 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012 .2, 3}');
+2024-04-05 15:21:03.297 CST [8203] ERROR:  invalid input syntax for type complex: "{-012. 2, 3}" at character 35
+2024-04-05 15:21:03.297 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012. 2, 3}');
+2024-04-05 15:21:05.711 CST [8203] ERROR:  invalid input syntax for type complex: "{-012.2 , 3}" at character 35
+2024-04-05 15:21:05.711 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.2 , 3}');
+2024-04-05 15:21:08.995 CST [8203] ERROR:  invalid input syntax for type complex: "{-012.2, 3 }" at character 35
+2024-04-05 15:21:08.995 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.2, 3 }');
+2024-04-05 15:21:11.428 CST [8203] ERROR:  invalid input syntax for type complex: "{-012.2, 3} " at character 35
+2024-04-05 15:21:11.428 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.2, 3} ');
+2024-04-05 15:21:15.380 CST [8203] ERROR:  invalid input syntax for type complex: "-{-012.2, 3}" at character 35
+2024-04-05 15:21:15.380 CST [8203] STATEMENT:  insert into test_vector values (1,'-{-012.2, 3}');
+2024-04-05 15:21:18.813 CST [8203] ERROR:  invalid input syntax for type complex: "--{-012.2, 3}" at character 35
+2024-04-05 15:21:18.813 CST [8203] STATEMENT:  insert into test_vector values (1,'--{-012.2, 3}');
+2024-04-05 15:21:22.808 CST [8203] ERROR:  invalid input syntax for type complex: "{--012.2, 3}" at character 35
+2024-04-05 15:21:22.808 CST [8203] STATEMENT:  insert into test_vector values (1,'{--012.2, 3}');
+2024-04-05 15:21:25.390 CST [8203] ERROR:  invalid input syntax for type complex: "{-0-12.2" at character 35
+2024-04-05 15:21:25.390 CST [8203] STATEMENT:  insert into test_vector values (1,'{-0-12.2, 3}');
+2024-04-05 15:21:28.370 CST [8203] ERROR:  invalid input syntax for type complex: "{-0+12.2" at character 35
+2024-04-05 15:21:28.370 CST [8203] STATEMENT:  insert into test_vector values (1,'{-0+12.2, 3}');
+2024-04-05 15:21:31.471 CST [8203] ERROR:  invalid input syntax for type complex: "{-01-2.2" at character 35
+2024-04-05 15:21:31.471 CST [8203] STATEMENT:  insert into test_vector values (1,'{-01-2.2, 3}');
+2024-04-05 15:21:34.373 CST [8203] ERROR:  invalid input syntax for type complex: "{-012-.2, 3}" at character 35
+2024-04-05 15:21:34.373 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012-.2, 3}');
+2024-04-05 15:21:37.094 CST [8203] ERROR:  invalid input syntax for type complex: "{-012.-2, 3}" at character 35
+2024-04-05 15:21:37.094 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.-2, 3}');
+2024-04-05 15:21:41.737 CST [8203] ERROR:  invalid input syntax for type complex: "{-012.,-2, 3}" at character 35
+2024-04-05 15:21:41.737 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012.,-2, 3}');
+2024-04-05 15:21:45.885 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:21:45.885 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:21:45.885 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012,-2, 3}');
+2024-04-05 15:21:53.223 CST [8203] ERROR:  invalid input syntax for type complex: "{-01-2" at character 35
+2024-04-05 15:21:53.223 CST [8203] STATEMENT:  insert into test_vector values (1,'{-01-2,-2, 3}');
+2024-04-05 15:21:57.140 CST [8203] ERROR:  invalid input syntax for type complex: "{-0-12" at character 35
+2024-04-05 15:21:57.140 CST [8203] STATEMENT:  insert into test_vector values (1,'{-0-12,-2, 3}');
+2024-04-05 15:22:49.987 CST [8203] ERROR:  invalid input syntax for type complex: "{-012,-2, 3-}" at character 35
+2024-04-05 15:22:49.987 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012,-2, 3-}');
+2024-04-05 15:22:55.044 CST [8203] ERROR:  invalid input syntax for type complex: "{-012,-2, 3+}" at character 35
+2024-04-05 15:22:55.044 CST [8203] STATEMENT:  insert into test_vector values (1,'{-012,-2, 3+}');
+2024-04-05 15:23:34.927 CST [8203] ERROR:  invalid input syntax for type complex: "" at character 35
+2024-04-05 15:23:34.927 CST [8203] STATEMENT:  insert into test_vector values (1,'');
+2024-04-05 15:23:38.146 CST [8203] ERROR:  invalid input syntax for type complex: "{" at character 35
+2024-04-05 15:23:38.146 CST [8203] STATEMENT:  insert into test_vector values (1,'{');
+2024-04-05 15:23:40.766 CST [8203] ERROR:  invalid input syntax for type complex: "{0" at character 35
+2024-04-05 15:23:40.766 CST [8203] STATEMENT:  insert into test_vector values (1,'{0');
+2024-04-05 15:24:02.231 CST [8203] ERROR:  invalid input syntax for type complex: "{" at character 35
+2024-04-05 15:24:02.231 CST [8203] STATEMENT:  insert into test_vector values (1,'{');
+2024-04-05 15:24:05.961 CST [8203] ERROR:  invalid input syntax for type complex: "}" at character 35
+2024-04-05 15:24:05.961 CST [8203] STATEMENT:  insert into test_vector values (1,'}');
+2024-04-05 15:24:08.409 CST [8203] ERROR:  invalid input syntax for type complex: " " at character 35
+2024-04-05 15:24:08.409 CST [8203] STATEMENT:  insert into test_vector values (1,' ');
+2024-04-05 15:24:10.951 CST [8203] ERROR:  invalid input syntax for type complex: "11" at character 35
+2024-04-05 15:24:10.951 CST [8203] STATEMENT:  insert into test_vector values (1,'11');
+2024-04-05 15:24:16.197 CST [8203] ERROR:  invalid input syntax for type complex: "{12," at character 35
+2024-04-05 15:24:16.197 CST [8203] STATEMENT:  insert into test_vector values (1,'{12,');
+2024-04-05 15:25:01.672 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:25:01.672 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:25:01.672 CST [8203] STATEMENT:  insert into test_vector values (1,'{1245}');
+2024-04-05 15:25:05.186 CST [8203] ERROR:  invalid input syntax for type complex: "{124..5}" at character 35
+2024-04-05 15:25:05.186 CST [8203] STATEMENT:  insert into test_vector values (1,'{124..5}');
+2024-04-05 15:25:15.437 CST [8203] ERROR:  invalid input syntax for type complex: "{}" at character 35
+2024-04-05 15:25:15.437 CST [8203] STATEMENT:  insert into test_vector values (1,'{}');
+2024-04-05 15:25:18.113 CST [8203] ERROR:  invalid input syntax for type complex: "{.}" at character 35
+2024-04-05 15:25:18.113 CST [8203] STATEMENT:  insert into test_vector values (1,'{.}');
+2024-04-05 15:25:21.518 CST [8203] ERROR:  invalid input syntax for type complex: "{,}" at character 35
+2024-04-05 15:25:21.518 CST [8203] STATEMENT:  insert into test_vector values (1,'{,}');
+2024-04-05 15:26:38.343 CST [8203] ERROR:  invalid input syntax for type complex: "{1+,2}" at character 35
+2024-04-05 15:26:38.343 CST [8203] STATEMENT:  insert into test_vector values (1,'{1+,2}');
+2024-04-05 15:35:36.559 CST [8203] ERROR:  invalid input syntax for type complex: "{+ 1,}" at character 35
+2024-04-05 15:35:36.559 CST [8203] STATEMENT:  insert into test_vector values (1,'{+ 1,}');
+2024-04-05 15:35:39.077 CST [8203] ERROR:  invalid input syntax for type complex: "{+" at character 35
+2024-04-05 15:35:39.077 CST [8203] STATEMENT:  insert into test_vector values (1,'{+ 1}');
+2024-04-05 15:36:04.518 CST [8203] ERROR:  invalid input syntax for type complex: "{+ }" at character 35
+2024-04-05 15:36:04.518 CST [8203] STATEMENT:  insert into test_vector values (1,'{+ }');
+2024-04-05 15:49:00.944 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:49:00.944 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:49:00.944 CST [8203] STATEMENT:  insert into test_vector values (1,'{1}');
+2024-04-05 15:49:03.769 CST [8203] ERROR:  invalid input syntax for type complex: "{1+}" at character 35
+2024-04-05 15:49:03.769 CST [8203] STATEMENT:  insert into test_vector values (1,'{1+}');
+2024-04-05 15:49:11.909 CST [8203] ERROR:  invalid input syntax for type complex: "{1+1" at character 35
+2024-04-05 15:49:11.909 CST [8203] STATEMENT:  insert into test_vector values (1,'{1+1}');
+2024-04-05 15:49:44.284 CST [8203] ERROR:  invalid input syntax for type complex: "{1+" at character 35
+2024-04-05 15:49:44.284 CST [8203] STATEMENT:  insert into test_vector values (1,'{1+ 1}');
+2024-04-05 15:49:48.097 CST [8203] ERROR:  invalid input syntax for type complex: "{1 1}" at character 35
+2024-04-05 15:49:48.097 CST [8203] STATEMENT:  insert into test_vector values (1,'{1 1}');
+2024-04-05 15:49:51.533 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:49:51.533 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:49:51.533 CST [8203] STATEMENT:  insert into test_vector values (1,'{+11}');
+2024-04-05 15:49:54.166 CST [8203] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 15:49:54.166 CST [8203] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 15:49:54.166 CST [8203] STATEMENT:  insert into test_vector values (1,'{-11}');
+2024-04-05 15:49:58.388 CST [8203] ERROR:  invalid input syntax for type complex: "{.11}" at character 35
+2024-04-05 15:49:58.388 CST [8203] STATEMENT:  insert into test_vector values (1,'{.11}');
+2024-04-05 15:50:03.828 CST [8203] ERROR:  invalid input syntax for type complex: "{-1-1" at character 35
+2024-04-05 15:50:03.828 CST [8203] STATEMENT:  insert into test_vector values (1,'{-1-1}');
+2024-04-05 15:50:07.938 CST [8203] ERROR:  invalid input syntax for type complex: "{-11-}" at character 35
+2024-04-05 15:50:07.938 CST [8203] STATEMENT:  insert into test_vector values (1,'{-11-}');
+2024-04-05 15:50:13.690 CST [8203] ERROR:  invalid input syntax for type complex: "{-11-,6}" at character 35
+2024-04-05 15:50:13.690 CST [8203] STATEMENT:  insert into test_vector values (1,'{-11-,6}');
+2024-04-05 15:50:21.742 CST [8203] ERROR:  invalid input syntax for type complex: "{-11-1" at character 35
+2024-04-05 15:50:21.742 CST [8203] STATEMENT:  insert into test_vector values (1,'{-11-1,6}');
+2024-04-05 15:50:43.006 CST [8203] ERROR:  invalid input syntax for type complex: "{-11 -1,6}" at character 35
+2024-04-05 15:50:43.006 CST [8203] STATEMENT:  insert into test_vector values (1,'{-11 -1,6}');
+2024-04-05 15:58:29.973 CST [8512] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 15:58:29.973 CST [8512] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 15:58:29.973 CST [8512] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 15:58:29.973 CST [8512] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 15:58:29.973 CST [8512] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 15:58:29.973 CST [8512] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 15:58:29.974 CST [8512] ERROR:  could not find block containing chunk 0x5594bb643d98
+2024-04-05 15:58:29.974 CST [8512] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-05 15:58:30.084 CST [1931] LOG:  server process (PID 8512) was terminated by signal 11: 段错误
+2024-04-05 15:58:30.084 CST [1931] DETAIL:  Failed process was running: select '{1.1,2.2}'::vector-'{3.3,4.4}'::vector;
+2024-04-05 15:58:30.084 CST [1931] LOG:  terminating any other active server processes
+2024-04-05 15:58:30.084 CST [3310] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.084 CST [3310] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.084 CST [3310] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.084 CST [2621] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.084 CST [2621] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.084 CST [2621] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.084 CST [3476] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.084 CST [3476] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.084 CST [3476] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.085 CST [2624] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.085 CST [2624] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.085 CST [2624] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.085 CST [1959] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.085 CST [1959] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.085 CST [1959] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.085 CST [2787] WARNING:  terminating connection because of crash of another server process
+2024-04-05 15:58:30.085 CST [2787] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 15:58:30.085 CST [2787] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 15:58:30.090 CST [1931] LOG:  all server processes terminated; reinitializing
+2024-04-05 15:58:30.102 CST [8515] LOG:  database system was interrupted; last known up at 2024-04-05 15:50:10 CST
+2024-04-05 15:58:30.108 CST [8515] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-05 15:58:30.111 CST [8515] LOG:  redo starts at 0/252BC20
+2024-04-05 15:58:30.113 CST [8515] LOG:  invalid record length at 0/25656D8: wanted 24, got 0
+2024-04-05 15:58:30.113 CST [8515] LOG:  redo done at 0/25656B0
+2024-04-05 15:58:30.142 CST [1931] LOG:  database system is ready to accept connections
+2024-04-05 15:59:26.461 CST [8523] ERROR:  could not find block containing chunk 0x5594bb622698
+2024-04-05 15:59:26.461 CST [8523] STATEMENT:  select * from test_vector;
+2024-04-05 15:59:52.166 CST [8523] ERROR:  relation "test_vector" already exists
+2024-04-05 15:59:52.166 CST [8523] STATEMENT:  create table test_vector (id integer primary key, vec vector);
+2024-04-05 16:01:42.149 CST [8523] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 16:01:42.149 CST [8523] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 16:01:42.149 CST [8523] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 16:01:42.149 CST [8523] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 16:01:42.149 CST [8523] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 16:01:42.149 CST [8523] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 16:01:42.150 CST [8523] ERROR:  could not find block containing chunk 0x5594bb64ee38
+2024-04-05 16:01:42.150 CST [8523] STATEMENT:  select *, '{1,2,3}'<->vec as dis from test_vector order by dis  limit 10;
+2024-04-05 16:01:42.238 CST [1931] LOG:  server process (PID 8523) was terminated by signal 11: 段错误
+2024-04-05 16:01:42.238 CST [1931] DETAIL:  Failed process was running: select '{1.1,2.2}'::vector-'{3.3,4.4}'::vector;
+2024-04-05 16:01:42.238 CST [1931] LOG:  terminating any other active server processes
+2024-04-05 16:01:42.239 CST [8519] WARNING:  terminating connection because of crash of another server process
+2024-04-05 16:01:42.239 CST [8519] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2024-04-05 16:01:42.239 CST [8519] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2024-04-05 16:01:42.239 CST [1931] LOG:  all server processes terminated; reinitializing
+2024-04-05 16:01:42.246 CST [8612] LOG:  database system was interrupted; last known up at 2024-04-05 15:58:30 CST
+2024-04-05 16:01:42.251 CST [8612] LOG:  database system was not properly shut down; automatic recovery in progress
+2024-04-05 16:01:42.255 CST [8612] LOG:  redo starts at 0/2565750
+2024-04-05 16:01:42.256 CST [8612] LOG:  invalid record length at 0/259AA78: wanted 24, got 0
+2024-04-05 16:01:42.256 CST [8612] LOG:  redo done at 0/259AA50
+2024-04-05 16:01:42.263 CST [1931] LOG:  database system is ready to accept connections
+2024-04-05 16:02:13.905 CST [8701] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 16:02:13.905 CST [8701] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 16:02:13.905 CST [8701] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 16:02:13.905 CST [8701] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 16:02:13.905 CST [8701] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 16:02:13.905 CST [8701] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 16:05:18.451 CST [8701] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 16:05:18.451 CST [8701] STATEMENT:  insert into test_vector values (1, '{-1. 0, 2,3}')
+	;
+2024-04-05 16:05:24.168 CST [8701] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 16:05:24.168 CST [8701] STATEMENT:  insert into test_vector values (1, '{-1. 0, 2,3}');
+2024-04-05 16:05:32.983 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:05:32.983 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:05:32.983 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.3, 2,3}');
+2024-04-05 16:05:38.555 CST [8701] ERROR:  invalid input syntax for type complex: "{.3, 2,3}" at character 36
+2024-04-05 16:05:38.555 CST [8701] STATEMENT:  insert into test_vector values (1, '{.3, 2,3}');
+2024-04-05 16:05:57.207 CST [8701] ERROR:  invalid input syntax for type complex: "{0.3.3" at character 36
+2024-04-05 16:05:57.207 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.3.3, 2,3}');
+2024-04-05 16:06:17.608 CST [8701] ERROR:  invalid input syntax for type complex: "{0.3 3, 2,3}" at character 36
+2024-04-05 16:06:17.608 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.3 3, 2,3}');
+2024-04-05 16:06:31.023 CST [8701] ERROR:  invalid input syntax for type complex: "{{0.33, 2,3}" at character 36
+2024-04-05 16:06:31.023 CST [8701] STATEMENT:  insert into test_vector values (1, '{{0.33, 2,3}');
+2024-04-05 16:06:38.008 CST [8701] ERROR:  invalid input syntax for type complex: "{ {0.33, 2,3}" at character 36
+2024-04-05 16:06:38.008 CST [8701] STATEMENT:  insert into test_vector values (1, '{ {0.33, 2,3}');
+2024-04-05 16:11:41.419 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:11:41.419 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:11:41.419 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.33, 2,3}');
+2024-04-05 16:12:06.968 CST [8701] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 16:12:06.968 CST [8701] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 16:12:06.968 CST [8701] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 16:12:06.968 CST [8701] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 16:12:06.969 CST [8701] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 16:12:06.969 CST [8701] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 16:12:21.886 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:12:21.886 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:12:21.886 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.33, 2,3}');
+2024-04-05 16:12:27.257 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:12:27.257 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:12:27.257 CST [8701] STATEMENT:  insert into test_vector values (1, '{ 0.33, 2,3}');
+2024-04-05 16:12:49.476 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:12:49.476 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:12:49.476 CST [8701] STATEMENT:  insert into test_vector values (1, '{0.33, 2.2,3}');
+2024-04-05 16:17:26.226 CST [8701] ERROR:  invalid input syntax for type complex: "{ }" at character 36
+2024-04-05 16:17:26.226 CST [8701] STATEMENT:  insert into test_vector values (1, '{ }');
+2024-04-05 16:17:28.807 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 16:17:28.807 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 16:17:28.807 CST [8701] STATEMENT:  insert into test_vector values (1, '{ 0}');
+2024-04-05 16:17:32.428 CST [8701] ERROR:  invalid input syntax for type complex: "{  }" at character 36
+2024-04-05 16:17:32.428 CST [8701] STATEMENT:  insert into test_vector values (1, '{  }');
+2024-04-05 16:17:36.966 CST [8701] ERROR:  invalid input syntax for type complex: "{     }" at character 36
+2024-04-05 16:17:36.966 CST [8701] STATEMENT:  insert into test_vector values (1, '{     }');
+2024-04-05 16:17:46.260 CST [8701] ERROR:  invalid input syntax for type complex: "{ .}" at character 36
+2024-04-05 16:17:46.260 CST [8701] STATEMENT:  insert into test_vector values (1, '{ .}');
+2024-04-05 16:17:51.919 CST [8701] ERROR:  invalid input syntax for type complex: "{..}" at character 36
+2024-04-05 16:17:51.919 CST [8701] STATEMENT:  insert into test_vector values (1, '{..}');
+2024-04-05 16:17:54.746 CST [8701] ERROR:  invalid input syntax for type complex: "{1.}" at character 36
+2024-04-05 16:17:54.746 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.}');
+2024-04-05 16:18:03.978 CST [8701] ERROR:  invalid input syntax for type complex: "{,}" at character 36
+2024-04-05 16:18:03.978 CST [8701] STATEMENT:  insert into test_vector values (1, '{,}');
+2024-04-05 16:18:10.136 CST [8701] ERROR:  invalid input syntax for type complex: "{+}" at character 36
+2024-04-05 16:18:10.136 CST [8701] STATEMENT:  insert into test_vector values (1, '{+}');
+2024-04-05 16:18:17.713 CST [8701] ERROR:  invalid input syntax for type complex: "{ }" at character 36
+2024-04-05 16:18:17.713 CST [8701] STATEMENT:  insert into test_vector values (1, '{ }');
+2024-04-05 17:04:53.412 CST [8701] ERROR:  invalid input syntax for type complex: "{-1.2 , 2.1345, 3}" at character 36
+2024-04-05 17:04:53.412 CST [8701] STATEMENT:  insert into test_vector values (2, '{-1.2 , 2.1345, 3}');
+2024-04-05 17:04:53.412 CST [8701] ERROR:  invalid input syntax for type complex: " {-1.2, 2.1345, 3}" at character 36
+2024-04-05 17:04:53.412 CST [8701] STATEMENT:  insert into test_vector values (3, ' {-1.2, 2.1345, 3}');
+2024-04-05 17:04:53.412 CST [8701] ERROR:  invalid input syntax for type complex: "{-1. 0, 2,3}" at character 36
+2024-04-05 17:04:53.412 CST [8701] STATEMENT:  insert into test_vector values (4, '{-1. 0, 2,3}');
+2024-04-05 17:04:57.629 CST [8701] ERROR:  invalid input syntax for type complex: "{ }" at character 36
+2024-04-05 17:04:57.629 CST [8701] STATEMENT:  insert into test_vector values (1, '{ }');
+2024-04-05 17:05:00.590 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 17:05:00.590 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 17:05:00.590 CST [8701] STATEMENT:  insert into test_vector values (1, '{1}');
+2024-04-05 17:05:03.503 CST [8701] ERROR:  invalid input syntax for type complex: "{1,}" at character 36
+2024-04-05 17:05:03.503 CST [8701] STATEMENT:  insert into test_vector values (1, '{1,}');
+2024-04-05 17:05:06.670 CST [8701] ERROR:  duplicate key value violates unique constraint "test_vector_pkey"
+2024-04-05 17:05:06.670 CST [8701] DETAIL:  Key (id)=(1) already exists.
+2024-04-05 17:05:06.670 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2}');
+2024-04-05 17:05:09.130 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,,}" at character 36
+2024-04-05 17:05:09.130 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,,}');
+2024-04-05 17:05:11.158 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,}" at character 36
+2024-04-05 17:05:11.158 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,}');
+2024-04-05 17:05:14.307 CST [8701] ERROR:  invalid input syntax for type complex: "{,1.2}" at character 36
+2024-04-05 17:05:14.307 CST [8701] STATEMENT:  insert into test_vector values (1, '{,1.2}');
+2024-04-05 17:05:20.883 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2  ,}" at character 36
+2024-04-05 17:05:20.883 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2  ,}');
+2024-04-05 17:05:22.693 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2 ,}" at character 36
+2024-04-05 17:05:22.693 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2 ,}');
+2024-04-05 17:05:27.367 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2, ,2}" at character 36
+2024-04-05 17:05:27.367 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2, ,2}');
+2024-04-05 17:05:30.507 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,,2}" at character 36
+2024-04-05 17:05:30.507 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,,2}');
+2024-04-05 17:05:32.921 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,.2}" at character 36
+2024-04-05 17:05:32.921 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,.2}');
+2024-04-05 17:05:47.698 CST [8701] ERROR:  invalid input syntax for type complex: " {1.2,2}" at character 36
+2024-04-05 17:05:47.698 CST [8701] STATEMENT:  insert into test_vector values (1, ' {1.2,2}');
+2024-04-05 17:05:52.058 CST [8701] ERROR:  invalid input syntax for type complex: "1.2,2}" at character 36
+2024-04-05 17:05:52.058 CST [8701] STATEMENT:  insert into test_vector values (1, '1.2,2}');
+2024-04-05 17:05:56.401 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,2} " at character 36
+2024-04-05 17:05:56.401 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,2} ');
+2024-04-05 17:05:59.334 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,2 }" at character 36
+2024-04-05 17:05:59.334 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,2 }');
+2024-04-05 17:06:02.147 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,2" at character 36
+2024-04-05 17:06:02.147 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,2');
+2024-04-05 17:06:05.083 CST [8701] ERROR:  invalid input syntax for type complex: "{1.2,2}}" at character 36
+2024-04-05 17:06:05.083 CST [8701] STATEMENT:  insert into test_vector values (1, '{1.2,2}}');
+2024-04-05 17:06:08.532 CST [8701] ERROR:  invalid input syntax for type complex: "{{1.2,2}" at character 36
+2024-04-05 17:06:08.532 CST [8701] STATEMENT:  insert into test_vector values (1, '{{1.2,2}');
+2024-04-05 17:06:13.152 CST [8701] ERROR:  invalid input syntax for type complex: "{1 .2,2}" at character 36
+2024-04-05 17:06:13.152 CST [8701] STATEMENT:  insert into test_vector values (1, '{1 .2,2}');
